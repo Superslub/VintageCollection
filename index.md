@@ -7,4 +7,4 @@ classes: wide
 sort_by: title
 ---
 
-Kurze Einleitung (optional).
+Die Sammlung
