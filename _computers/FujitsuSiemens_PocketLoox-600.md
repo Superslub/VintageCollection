@@ -6,10 +6,10 @@ cpu_family: XScale
 type: handheld
 header:
   teaser: /assets/images/computers/FujitsuSiemens_PocketLoox-600_front01_thumb.jpg
-  image: /assets/images/computers/FujitsuSiemens_PocketLoox-600_front01.jpg
-  image_description: "FSC Pocket Loox 600"
-  caption: "Bildnachweis / Beschriftung"
-  excerpt: "Ein Windows-Handheld"
+image: /assets/images/computers/FujitsuSiemens_PocketLoox-600_front01.jpg
+image_description: "FSC Pocket Loox 600"
+caption: "Bildnachweis / Beschriftung"
+excerpt: "Ein Windows-Handheld"
 ---
 
 Nochwas
