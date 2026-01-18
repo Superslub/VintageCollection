@@ -5,8 +5,8 @@ year: 2005
 cpu_family: XScale
 type: handheld
 header:
-  teaser: /assets/images/_computers/FujitsuSiemens_PocketLoox-600_front01_thumb.jpg
-  image: /assets/images/_computers/FujitsuSiemens_PocketLoox-600_front01.jpg
+  teaser: /assets/images/computers/FujitsuSiemens_PocketLoox-600_front01_thumb.jpg
+  image: /assets/images/computers/FujitsuSiemens_PocketLoox-600_front01.jpg
   image_description: "FSC Pocket Loox 600"
   caption: "Bildnachweis / Beschriftung"
 ---
