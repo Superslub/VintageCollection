@@ -9,9 +9,10 @@ header:
   image: /assets/images/computers/FujitsuSiemens_PocketLoox-600_front01.jpg
   image_description: "FSC Pocket Loox 600"
   caption: "Bildnachweis / Beschriftung"
+  excerpt: "Ein Windows-Handheld"
 ---
 
-Ein Windows-Handheld
+Nochwas
 
 <!--more-->
 
