@@ -21,7 +21,7 @@ gallery:
 |**Baujahr**| 1991|
 |**CPU**| Motorola 68000 @ 7,09 MHz|
 |**RAM**| 512 KB|
-|**Operating System**| Kickstart 1.3|
+|**Operating System**| AmigaOS 1.3|
 |**Interfaces**| Audio, Display(RGB), Floppy, Parallel, Serial, 2xJoystick|
 |**Zustand**| funktioniert, keine Gehäusemodifikationen, bis auf Tastatur wenig Gilb |
 |**Bemerkungen**| später 500er, schon mit Board vom 500+| 
