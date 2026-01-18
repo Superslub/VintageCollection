@@ -1,5 +1,5 @@
 ---
-title: Die Geräte
+title: 
 layout: collection
 collection: computers
 entries_layout: grid

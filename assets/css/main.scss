@@ -29,44 +29,4 @@ search: false
 
 
 
-/* Gallery: Letterbox-Kacheln, groß, mit Abstand */
-.mm-gallery--letterbox {
-  /* Abstand zwischen Bildern */
-  display: grid;
-  gap: 0.25rem;
-
-  /* „groß“: wenige, breite Spalten; passt sich der Viewport-Breite an */
-  grid-template-columns: repeat(auto-fit, minmax(min(520px, 100%), 1fr));
-}
-
-/* Jeder Gallery-„Tile“ ist entweder <a>…</a> oder direkt <img> */
-.mm-gallery--letterbox > a,
-.mm-gallery--letterbox > img {
-  /* feste Kachelhöhe, begrenzt durch Bildschirmhöhe */
-  height: min(60vh, 520px);
-
-  /* fixes Letterbox-Format (hier 16:9); bei Bedarf anpassen */
-  aspect-ratio: 1 / 1;
-
-  /* Innenabstand (Padding) innerhalb der Letterbox */
-  padding: 0.75rem;
-  box-sizing: border-box;
-
-  /* zentrieren */
-  display: flex;
-  align-items: center;
-  justify-content: center;
-
-  /* optional: wenn Sie einen Rahmen/Container wünschen, hier ergänzen */
-}
-
-/* Bild immer vollständig sichtbar (kein Zuschnitt) */
-.mm-gallery--letterbox > a > img,
-.mm-gallery--letterbox > img {
-  width: 100%;
-  height: 100%;
-  object-fit: contain; /* Letterboxing */
-  display: block;
-}
-
 
