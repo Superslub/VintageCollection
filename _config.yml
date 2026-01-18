@@ -95,6 +95,16 @@ defaults:
     values:
       layout: single
       author_profile: true
+	  
+  # _computers Items
+  - scope:
+      path: ""
+      type: computers
+    values:
+      layout: single
+      classes: wide
+      author_profile: false
+      share: false
 
 collections:
   computers:

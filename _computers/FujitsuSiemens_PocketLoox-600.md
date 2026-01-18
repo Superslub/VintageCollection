@@ -32,7 +32,6 @@ image_description: "FSC Pocket Loox 600"
 caption: "Bildnachweis / Beschriftung"
 
 ---
-<!--more-->
 
 |**Baujahr**| 2005|
 |**CPU**| Intel XScale PXA250 @ 400MHz|
