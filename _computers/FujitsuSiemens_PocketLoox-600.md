@@ -11,7 +11,7 @@ header:
 **Baujahr:** 2005
 **CPU:** Intel XScale PXA250 @ 400MHz  
 **RAM:** 64 MB
-**Display** 240×320 Pixel Touchscreen
+**Display** 240Ã—320 Pixel Touchscreen
 **Operating System** Microsoft Pocket PC 2002
 **Interfaces** IrDa, Bluetooth 1.1, Audio
 **Accu** 1440 mAh LiPo
