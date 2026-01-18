@@ -33,7 +33,7 @@ search: false
 .mm-gallery--letterbox {
   /* Abstand zwischen Bildern */
   display: grid;
-  gap: 1.25rem;
+  gap: 0.25rem;
 
   /* „groß“: wenige, breite Spalten; passt sich der Viewport-Breite an */
   grid-template-columns: repeat(auto-fit, minmax(min(520px, 100%), 1fr));
@@ -46,7 +46,7 @@ search: false
   height: min(60vh, 520px);
 
   /* fixes Letterbox-Format (hier 16:9); bei Bedarf anpassen */
-  aspect-ratio: 16 / 9;
+  aspect-ratio: 1 / 1;
 
   /* Innenabstand (Padding) innerhalb der Letterbox */
   padding: 0.75rem;

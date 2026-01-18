@@ -44,4 +44,4 @@ caption: "Bildnachweis / Beschriftung"
 |**Zustand**| funktioniert, Abdeckung IrDA-Port fehlt |
 |**Bemerkungen**| MS Pocket PC 2002 verlangt nach jedem Neueinschalten ein kleines Tutorial und eine Kalibrierung des Touchscreens | 
 
-{% include gallery caption="Bildergalerie" class="mm-gallery--letterbox" %}
+{% include gallery class="mm-gallery--letterbox" %}
