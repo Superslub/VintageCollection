@@ -5,7 +5,7 @@ year: 2005
 cpu_family: XScale
 type: handheld
 header:
-  teaser: /assets/images/computers/FujitsuSiemens_PocketLoox-600_front01_thumb.jpg
+  teaser: /assets/images/computers/FujitsuSiemens_PocketLoox-600_front01.jpg
 
 gallery:
   - url: /assets/images/computers/FujitsuSiemens_PocketLoox-600_front01.jpg
