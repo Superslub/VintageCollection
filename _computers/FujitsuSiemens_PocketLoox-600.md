@@ -10,15 +10,19 @@ header:
 
 gallery:
   - image_path: /assets/images/computers/FujitsuSiemens_PocketLoox-600_front01.jpg
+    url: /assets/images/computers/FujitsuSiemens_PocketLoox-600_front01.jpg
     alt: "Oberfläche"
     title: "Vorderansicht"
   - image_path: /assets/images/computers/FujitsuSiemens_PocketLoox-600_front02.jpg
+    url: /assets/images/computers/FujitsuSiemens_PocketLoox-600_front02.jpg
     alt: "Startbildschirm"
     title: "Vorderansicht"
   - image_path: /assets/images/computers/FujitsuSiemens_PocketLoox-600_front03.jpg
+    url: /assets/images/computers/FujitsuSiemens_PocketLoox-600_front03.jpg
     alt: "Solitär"
     title: "Vorderansicht"
   - image_path: /assets/images/computers/FujitsuSiemens_PocketLoox-600_front04.jpg
+    url: /assets/images/computers/FujitsuSiemens_PocketLoox-600_front04.jpg
     alt: "Desktop"
     title: "Vorderansicht"
 
@@ -29,7 +33,7 @@ caption: "Bildnachweis / Beschriftung"
 
 ---
 <!--more-->
-{% include gallery caption="Bildergalerie" %}
+
 |**Baujahr**| 2005|
 |**CPU**| Intel XScale PXA250 @ 400MHz|
 |**RAM**| 64 MB|
@@ -40,3 +44,5 @@ caption: "Bildnachweis / Beschriftung"
 |**Eigenschaften**| Hardware On/Off-Schalter, Stylus, Cradle, Netzteil, PCMCIA-Slot (oben), es gab auch PCMCIA-Wifi-Karten |
 |**Zustand**| funktioniert, Abdeckung IrDA-Port fehlt |
 |**Bemerkungen**| MS Pocket PC 2002 verlangt nach jedem Neueinschalten ein kleines Tutorial und eine Kalibrierung des Touchscreens | 
+
+{% include gallery caption="Bildergalerie" %}

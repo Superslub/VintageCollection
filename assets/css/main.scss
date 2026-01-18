@@ -25,3 +25,33 @@ search: false
   object-fit: contain;        /* kein Zuschnitt */
   display: block;
 }
+
+
+
+
+/* Gallery: Thumbnails als Letterbox (vollständig sichtbar) + Padding */
+.mm-gallery--letterbox a,
+.mm-gallery--letterbox > img {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+
+  aspect-ratio: 4 / 3;  /* gewünschtes Letterbox-Format */
+  padding: 0.5rem;      /* Innenabstand */
+}
+
+.mm-gallery--letterbox a img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;  /* kein Zuschnitt */
+  display: block;
+}
+
+/* Falls ein Bild ohne url direkt als <img> gerendert wird */
+.mm-gallery--letterbox > img {
+  width: 100%;
+  height: auto;         /* bei direktem <img> kein fixes Letterbox möglich */
+}
+
+
