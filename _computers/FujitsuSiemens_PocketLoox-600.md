@@ -11,6 +11,10 @@ header:
   caption: "Bildnachweis / Beschriftung"
 ---
 
+Ein Windows-Handheld
+
+<!--more-->
+
 |**Baujahr**| 2005|
 |**CPU**| Intel XScale PXA250 @ 400MHz|
 |**RAM**| 64 MB|
