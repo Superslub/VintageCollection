@@ -6,24 +6,18 @@ cpu_family: XScale
 type: handheld
 header:
   teaser: /assets/images/_computers/FujitsuSiemens_PocketLoox-600_front01_thumb.jpg
+  image: /assets/images/_computers/FujitsuSiemens_PocketLoox-600_front01.jpg
+  image_description: "FSC Pocket Loox 600"
+  caption: "Bildnachweis / Beschriftung"
 ---
 
-**Baujahr:** 2005
-
-**CPU:** Intel XScale PXA250 @ 400MHz
-
-**RAM:** 64 MB
-
-**Display** 240×320 Pixel Touchscreen
-
-**Operating System** Microsoft Pocket PC 2002
-
-**Interfaces** IrDa, Bluetooth 1.1, Audio
-
-**Accu** 1440 mAh LiPo
-
-**Eigenschaften** Hardware On/Off-Schalter, Stylus, Cradle, Netzteil, PCMCIA-Slot (oben), es gab auch PCMCIA-Wifi-Karten
-
-**Zustand** funktioniert, Abdeckung IrDA-Port fehlt
-
-**Bemerkungen** MS Pocket PC 2002 verlangt nach jedem Neueinschalten ein kleines Tutorial und eine Kalibrierung des Touchscreens
+**Baujahr:** 2005  
+**CPU:** Intel XScale PXA250 @ 400MHz  
+**RAM:** 64 MB  
+**Display** 240×320 Pixel Touchscreen  
+**Operating System** Microsoft Pocket PC 2002  
+**Interfaces** IrDa, Bluetooth 1.1, Audio  
+**Accu** 1440 mAh LiPo  
+**Eigenschaften** Hardware On/Off-Schalter, Stylus, Cradle, Netzteil, PCMCIA-Slot (oben), es gab auch PCMCIA-Wifi-Karten  
+**Zustand** funktioniert, Abdeckung IrDA-Port fehlt  
+**Bemerkungen** MS Pocket PC 2002 verlangt nach jedem Neueinschalten ein kleines Tutorial und eine Kalibrierung des Touchscreens  
