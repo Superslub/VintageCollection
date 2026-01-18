@@ -5,23 +5,23 @@ year: 2005
 cpu_family: XScale
 type: handheld
 header:
-  teaser: /assets/images/_computers/FujitsuSiemens_PocketLoox-600_front01_thumb.jpg
+  teaser: /assets/images/computers/FujitsuSiemens_PocketLoox-600_front01_thumb.jpg
 
 gallery:
-  - url: /assets/images/_computers/FujitsuSiemens_PocketLoox-600_front01.jpg
-    image_path: /assets/images/_computers/FujitsuSiemens_PocketLoox-600_front01.jpg
+  - url: /assets/images/computers/FujitsuSiemens_PocketLoox-600_front01.jpg
+    image_path: /assets/images/computers/FujitsuSiemens_PocketLoox-600_front01.jpg
     alt: "Startbildschirm"
     title: "Vorderansicht"
-  - url: /assets/images/_computers/FujitsuSiemens_PocketLoox-600_front02.jpg
-    image_path: /assets/images/_computers/FujitsuSiemens_PocketLoox-600_front02.jpg
+  - url: /assets/images/computers/FujitsuSiemens_PocketLoox-600_front02.jpg
+    image_path: /assets/images/computers/FujitsuSiemens_PocketLoox-600_front02.jpg
     alt: "Oberfläche"
     title: "Vorderansicht"
-  - url: /assets/images/_computers/FujitsuSiemens_PocketLoox-600_front03.jpg
-    image_path: /assets/images/_computers/FujitsuSiemens_PocketLoox-600_front03.jpg
+  - url: /assets/images/computers/FujitsuSiemens_PocketLoox-600_front03.jpg
+    image_path: /assets/images/computers/FujitsuSiemens_PocketLoox-600_front03.jpg
     alt: "Oberfläche"
     title: "Vorderansicht"
-  - url: /assets/images/_computers/FujitsuSiemens_PocketLoox-600_front04.jpg
-    image_path: /assets/images/_computers/FujitsuSiemens_PocketLoox-600_front04.jpg
+  - url: /assets/images/computers/FujitsuSiemens_PocketLoox-600_front04.jpg
+    image_path: /assets/images/computers/FujitsuSiemens_PocketLoox-600_front04.jpg
     alt: "Oberfläche"
     title: "Vorderansicht"
 
