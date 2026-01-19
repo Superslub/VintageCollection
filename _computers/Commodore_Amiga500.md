@@ -6,17 +6,17 @@ year: 1991
 cpu_family: M68k
 type: Heimcomputer
 header:
-  teaser: /assets/images/computers/Commodore_Amiga500_top.jpg
+  teaser: /assets/images/computers/A500/Commodore_Amiga500_top.jpg
 
 gallery:
-  - image_path: /assets/images/computers/Commodore_Amiga500_top.jpg
-    url: /assets/images/computers/Commodore_Amiga500_top.jpg
-  - image_path: /assets/images/computers/Commodore_Amiga500_offen.jpg
-    url: /assets/images/computers/Commodore_Amiga500_offen.jpg
-  - image_path: /assets/images/computers/Commodore_Amiga500_motherboard.jpg
-    url: /assets/images/computers/Commodore_Amiga500_motherboard.jpg
-  - image_path: /assets/images/computers/Amiga_Videobackupsystem.jpg
-    url: /assets/images/computers/Amiga_Videobackupsystem.jpg
+  - image_path: /assets/images/computers/A500/Commodore_Amiga500_top.jpg
+    url: /assets/images/computers/A500/Commodore_Amiga500_top.jpg
+  - image_path: /assets/images/computers/A500/Commodore_Amiga500_offen.jpg
+    url: /assets/images/computers/A500/Commodore_Amiga500_offen.jpg
+  - image_path: /assets/images/computers/A500/Commodore_Amiga500_motherboard.jpg
+    url: /assets/images/computers/A500/Commodore_Amiga500_motherboard.jpg
+  - image_path: /assets/images/computers/A500/Amiga_Videobackupsystem.jpg
+    url: /assets/images/computers/A500/Amiga_Videobackupsystem.jpg
 
 ---
 
