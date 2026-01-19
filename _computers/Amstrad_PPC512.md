@@ -9,10 +9,10 @@ header:
   teaser: /assets/images/computers/Amstrad_PPC512/Amstrad_PPC512_02.jpg
 
 gallery:
-  - image_path: /assets/images/computers/Amstrad_PPC512/Amstrad_PPC512_01.jpg
-    url: /assets/images/computers/FSC_Loox/Amstrad_PPC512/Amstrad_PPC512_01.jpg
   - image_path: /assets/images/computers/Amstrad_PPC512/Amstrad_PPC512_02.jpg
     url: /assets/images/computers/FSC_Loox/Amstrad_PPC512/Amstrad_PPC512_02.jpg
+  - image_path: /assets/images/computers/Amstrad_PPC512/Amstrad_PPC512_01.jpg
+    url: /assets/images/computers/FSC_Loox/Amstrad_PPC512/Amstrad_PPC512_01.jpg
   - image_path: /assets/images/computers/Amstrad_PPC512/Amstrad_PPC512_03.jpg
     url: /assets/images/computers/FSC_Loox/Amstrad_PPC512/Amstrad_PPC512_03.jpg
   - image_path: /assets/images/computers/Amstrad_PPC512/Amstrad_PPC512_04.jpg
