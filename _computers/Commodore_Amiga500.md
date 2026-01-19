@@ -31,7 +31,7 @@ gallery:
 |**Reparaturen**| interne Floppy ersetzt, SCART-Kabel repariert | 
 
 
-Amiga OS war 1985 das erste Betriebssystem mit **präemptiven Multitasking** für Heimanwender und kam zudem mit grafischer Oberfläche. Apple und Microsoft brauchten in dieser Geräteklasse für dieses echte Multitasking noch viele Jahre: Microsoft brachte mit Windows 95 erst 1995 ein entsprechendes OS für Heimanwender und User mit Apple-PCs mussten dafür noch bis 2001 (Mac OS X) warten.
+Amiga OS war 1985 das erste Betriebssystem für Heimanwender mit **präemptiven Multitasking** und kam zudem mit grafischer Oberfläche. Apple und Microsoft brauchten in dieser Geräteklasse für dieses echte Multitasking noch viele Jahre: Microsoft brachte mit Windows 95 erst 1995 ein entsprechendes OS für Heimanwender und User mit Apple-PCs mussten dafür noch bis 2001 (Mac OS X) warten.
 
 Einen Nachteil hat der 68000er jedoch: Er bietet mit seiner linearen Speicherverwaltung ohne Zusatzhardware von Haus aus keinen Speicherschutz.
 
