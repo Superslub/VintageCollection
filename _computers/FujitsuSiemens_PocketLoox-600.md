@@ -3,7 +3,7 @@ title: "FSC Pocket Loox 600"
 excerpt: "Ein Windows-Handheld"
 manufacturer: "Fujitsu Siemens Computers (FSC)"
 year: 2005
-cpu_family: XScale
+cpu_family: ARM
 type: PDA
 header:
   teaser: /assets/images/computers/Loox/FujitsuSiemens_PocketLoox-600_front01.jpg
@@ -41,6 +41,10 @@ gallery:
 |**Bemerkungen**| zeittypischer Silberlack, MS Pocket PC 2002 verlangt nach jedem Neueinschalten ein kleines Tutorial und eine Kalibrierung des Touchscreens | 
 
 "Pocket PC" bezeichnet eine Mobilgeräteklasse, auf denen "Windows CE", bzw. "Windows Mobile" als Betriebssystem läuft. Diese Geräteklasse war dem Versuch Microsofts geschuldet, den damaligen PDA-Marktführer Palm anzugreifen. Die Pocket PCs waren (zurecht) ein Rohrkrepierer und wurden alsbald wieder beerdigt.
+
+Die verbaute XScale-CPU war Teil des Versuchs Intels, mit ARM-Cores im Mobile- und Embedded-Segment Fuß zu fassen. Das Experiment währte nur vier Jahre und wurde nach nur vier Jahren 2006 wieder eingestellt.
+
+Der Loox vereint damit drei teure, aber nicht zu rettende Unternehmungen in sich: Siemens Versuch, noch etwas in der Consumer-PC-Sparte zu erreichen und die kläglichen Attacken der Giganten Intel und Microsoft, die auf den wachsenden  Mobile-Markt zielten.
 
 Das Gerät an sich (Loox) ist von guter Qualität, wenn auch die Dockingstation etwas knarzig daherkommt.
 
