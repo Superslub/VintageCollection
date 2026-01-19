@@ -38,12 +38,14 @@ caption: "Bildnachweis / Beschriftung"
 |**RAM**| 64 MB|
 |**Display**|240×320 Pixel Touchscreen|
 |**Operating System**| Windows Mobile for PocketPC 2002|
-|**Interfaces**| IrDa, Bluetooth 1.1, Audio|
+|**Interfaces**| IrDA, Bluetooth 1.1, Audio|
 |**Akku**| 1440 mAh LiPo |
 |**Eigenschaften**| Hardware On/Off-Schalter, Stylus, Cradle, Netzteil, PCMCIA-Slot (oben), es gab auch PCMCIA-Wifi-Karten |
 |**Zustand**| funktioniert, Abdeckung IrDA-Port fehlt |
-|**Bemerkungen**| MS Pocket PC 2002 verlangt nach jedem Neueinschalten ein kleines Tutorial und eine Kalibrierung des Touchscreens | 
+|**Bemerkungen**| zeittypischer Silberlack, MS Pocket PC 2002 verlangt nach jedem Neueinschalten ein kleines Tutorial und eine Kalibrierung des Touchscreens | 
 
 "Pocket PC" bezeichnet eine Mobilgeräteklasse, auf denen "Windows CE", bzw. "Windows Mobile" als Betriebssystem läuft. Diese Geräteklasse war dem Versuch Microsofts geschuldet, den damaligen PDA-Marktführer Palm anzugreifen. Die Pocket PCs waren (zurecht) ein Rohrkrepierer und wurden alsbald wieder beerdigt.
+
+Das Gerät an sich (Loox) ist von guter Qualität, wenn auch die Dockingstation etwas knarzig daherkommt.
 
 {% include gallery class="mm-gallery--letterbox" %}
