@@ -6,17 +6,39 @@ year: 1991
 cpu_family: M68k
 type: Heimcomputer
 header:
-  teaser: /assets/images/computers/A500/Commodore_Amiga500_top.jpg
+  teaser: /assets/images/computers/Commodore_A500/Commodore_Amiga500_all1.jpg
 
 gallery:
-  - image_path: /assets/images/computers/A500/Commodore_Amiga500_top.jpg
-    url: /assets/images/computers/A500/Commodore_Amiga500_top.jpg
-  - image_path: /assets/images/computers/A500/Commodore_Amiga500_offen.jpg
-    url: /assets/images/computers/A500/Commodore_Amiga500_offen.jpg
-  - image_path: /assets/images/computers/A500/Commodore_Amiga500_motherboard.jpg
-    url: /assets/images/computers/A500/Commodore_Amiga500_motherboard.jpg
-  - image_path: /assets/images/computers/A500/Amiga_Videobackupsystem.jpg
-    url: /assets/images/computers/A500/Amiga_Videobackupsystem.jpg
+  - image_path: /assets/images/computers/Commodore_A500/Commodore_Amiga500_1.jpg
+    url: /assets/images/computers/Commodore_A500/Commodore_Amiga500_1.jpg
+  - image_path: /assets/images/computers/Commodore_A500/Commodore_Amiga500_2.jpg
+    url: /assets/images/computers/Commodore_A500/Commodore_Amiga500_2.jpg
+  - image_path: /assets/images/computers/Commodore_A500/Commodore_Amiga500_3.jpg
+    url: /assets/images/computers/Commodore_A500/Commodore_Amiga500_3.jpg
+  - image_path: /assets/images/computers/Commodore_A500/Commodore_Amiga500_4.jpg
+    url: /assets/images/computers/Commodore_A500/Commodore_Amiga500_4.jpg
+  - image_path: /assets/images/computers/Commodore_A500/Commodore_Amiga500_5.jpg
+    url: /assets/images/computers/Commodore_A500/Commodore_Amiga500_5.jpg
+  - image_path: /assets/images/computers/Commodore_A500/Commodore_Amiga500_all1.jpg
+    url: /assets/images/computers/Commodore_A500/Commodore_Amiga500_all1.jpg
+  - image_path: /assets/images/computers/Commodore_A500/Commodore_Amiga500_all2.jpg
+    url: /assets/images/computers/Commodore_A500/Commodore_Amiga500_all2.jpg
+  - image_path: /assets/images/computers/Commodore_A500/Commodore_Amiga500_top.jpg
+    url: /assets/images/computers/Commodore_A500/Commodore_Amiga500_top.jpg
+  - image_path: /assets/images/computers/Commodore_A500/Commodore_Amiga500_detail1.jpg
+    url: /assets/images/computers/Commodore_A500/Commodore_Amiga500_detail1.jpg
+  - image_path: /assets/images/computers/Commodore_A500/Commodore_Amiga500_floppy1.jpg
+    url: /assets/images/computers/Commodore_A500/Commodore_Amiga500_floppy1.jpg
+  - image_path: /assets/images/computers/Commodore_A500/Commodore_Amiga500_floppy2.jpg
+    url: /assets/images/computers/Commodore_A500/Commodore_Amiga500_floppy2.jpg
+  - image_path: /assets/images/computers/Commodore_A500/Commodore_Amiga500_top.jpg
+    url: /assets/images/computers/Commodore_A500/Commodore_Amiga500_top.jpg
+  - image_path: /assets/images/computers/Commodore_A500/Commodore_Amiga500_offen.jpg
+    url: /assets/images/computers/Commodore_A500/Commodore_Amiga500_offen.jpg
+  - image_path: /assets/images/computers/Commodore_A500/Commodore_Amiga500_motherboard.jpg
+    url: /assets/images/computers/Commodore_A500/Commodore_Amiga500_motherboard.jpg
+  - image_path: /assets/images/computers/Commodore_A500/Amiga_Videobackupsystem.jpg
+    url: /assets/images/computers/Commodore_A500/Amiga_Videobackupsystem.jpg
 
 ---
 
@@ -35,7 +57,7 @@ Amiga OS war 1985 das erste Betriebssystem für Heimanwender mit **präemptiven 
 
 Einen Nachteil hat der 68000er jedoch: Er bietet mit seiner linearen Speicherverwaltung ohne Zusatzhardware von Haus aus keinen Speicherschutz.
 
-Grundsätzlich war der Amiga 500 ein auf Kostenreduktion getrimmter Rechner der 16/32-Bit-Klasse für den Heimgebrauch, der ohne eingebauten Massenspeicher (HDD) verkauft wurde. Auch die Videoausgabe war nicht bürotauglich. Dafür kam er mit allerlei "Spezialchips" für Grafik- und Soundeffekte, die in einer Zeit, da PCs mit CGA-Grafik und ohne Soundkarte auskommen mussten, wegweisend waren. Das daraus resultierende Image des "Spielecomputer-Herstellers" konnte Commodore im Nachgang nie wieder ablegen.
+Grundsätzlich war der Amiga 500 ein auf Kostenreduktion getrimmter Rechner der 16/32-Bit-Klasse für den Heimgebrauch, der ohne eingebauten Massenspeicher (HDD) verkauft wurde. Auch die Videoausgabe war nicht bürotauglich. Dafür kam er mit allerlei "Spezialchips" für Grafik- und Soundeffekte, die in einer Zeit, da Intel-PCs mit CGA-Grafik und ohne Soundkarte auskommen mussten, wegweisend waren. Das daraus resultierende Image des "Spielecomputer-Herstellers" konnte Commodore im Nachgang nie wieder ablegen.
 
 Mit dem abgebildeten "VideoBackupSystem" von "Performance Peripherals Europe" konnten Floppy- und Festplatten-Inhalte auf VHS gesichert werden.
 

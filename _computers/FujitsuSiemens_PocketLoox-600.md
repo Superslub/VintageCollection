@@ -6,23 +6,23 @@ year: 2005
 cpu_family: ARM
 type: PDA
 header:
-  teaser: /assets/images/computers/Loox/FujitsuSiemens_PocketLoox-600_front01.jpg
+  teaser: /assets/images/computers/FSC_Loox/FujitsuSiemens_PocketLoox-600_front01.jpg
 
 gallery:
-  - image_path: /assets/images/computers/Loox/FujitsuSiemens_PocketLoox-600_front01.jpg
-    url: /assets/images/computers/Loox/FujitsuSiemens_PocketLoox-600_front01.jpg
+  - image_path: /assets/images/computers/FSC_Loox/FujitsuSiemens_PocketLoox-600_front01.jpg
+    url: /assets/images/computers/FSC_Loox/FujitsuSiemens_PocketLoox-600_front01.jpg
     alt: "Startbildschirm"
     title: "Vorderansicht"
-  - image_path: /assets/images/computers/Loox/FujitsuSiemens_PocketLoox-600_front02.jpg
-    url: /assets/images/computers/Loox/FujitsuSiemens_PocketLoox-600_front02.jpg
+  - image_path: /assets/images/computers/FSC_Loox/FujitsuSiemens_PocketLoox-600_front02.jpg
+    url: /assets/images/computers/FSC_Loox/FujitsuSiemens_PocketLoox-600_front02.jpg
     alt: "Oberfläche"
     title: "Vorderansicht"
-  - image_path: /assets/images/computers/Loox/FujitsuSiemens_PocketLoox-600_front03.jpg
-    url: /assets/images/computers/Loox/FujitsuSiemens_PocketLoox-600_front03.jpg
+  - image_path: /assets/images/computers/FSC_Loox/FujitsuSiemens_PocketLoox-600_front03.jpg
+    url: /assets/images/computers/FSC_Loox/FujitsuSiemens_PocketLoox-600_front03.jpg
     alt: "Solitär"
     title: "Vorderansicht"
-  - image_path: /assets/images/computers/Loox/FujitsuSiemens_PocketLoox-600_front04.jpg
-    url: /assets/images/computers/Loox/FujitsuSiemens_PocketLoox-600_front04.jpg
+  - image_path: /assets/images/computers/FSC_Loox/FujitsuSiemens_PocketLoox-600_front04.jpg
+    url: /assets/images/computers/FSC_Loox/FujitsuSiemens_PocketLoox-600_front04.jpg
     alt: "Desktop"
     title: "Vorderansicht"
 
