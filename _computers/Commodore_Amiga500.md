@@ -37,6 +37,10 @@ gallery:
     url: /assets/images/computers/Commodore_A500/Commodore_Amiga500_motherboard.jpg
   - image_path: /assets/images/computers/Commodore_A500/Amiga_Videobackupsystem.jpg
     url: /assets/images/computers/Commodore_A500/Amiga_Videobackupsystem.jpg
+  - image_path: /assets/images/computers/Commodore_A500/Commodore_Sachbuch.jpg
+    url: /assets/images/computers/Commodore_A500/Commodore_Sachbuch.jpg
+  - image_path: /assets/images/computers/Commodore_A500/Commodore_Amiga500_floppies.jpg
+    url: /assets/images/computers/Commodore_A500/Commodore_Amiga500_floppies.jpg
 
 ---
 

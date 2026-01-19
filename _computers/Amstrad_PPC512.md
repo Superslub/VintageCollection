@@ -77,6 +77,6 @@ Immerhin besaß der PPC mit der exotischen NEC V30-CPU einen verbesserten i8086-
 
 Trotz dieser Umstände war das LCD-Display 1987 sicherlich ein Highlight und Hingucker. Dank der energiesparenden Anzeigetechnologie ist sogar ein Arbeiten unterwegs möglich: Der Computer kann mit 10(!) Alkaline-Zellen (Type-C/R14) einige Stunden lang betrieben werden. NiCd/NiMh-Zellen sollen aufgrund ihrer leicht geringeren Zellenspannung leider nicht funktionieren.
 
-Im hellen Tageslicht ist der tragbare Rechner mit der angenehmen Full-Size-Tastatur gut nutzbar - wenn man auf die fehlende Festplatte verzichten kann (diese gab es von Drittherstellern).
+Im hellen Tageslicht ist der tragbare Rechner mit der angenehmen Fullsize-Tastatur gut nutzbar - wenn man auf die fehlende Festplatte verzichten kann (diese gab es von Drittherstellern).
 
 {% include gallery class="mm-gallery--letterbox" %}
