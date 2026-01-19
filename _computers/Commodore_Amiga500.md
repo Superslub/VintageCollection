@@ -23,8 +23,6 @@ gallery:
     url: /assets/images/computers/Commodore_A500/Commodore_Amiga500_all1.jpg
   - image_path: /assets/images/computers/Commodore_A500/Commodore_Amiga500_all2.jpg
     url: /assets/images/computers/Commodore_A500/Commodore_Amiga500_all2.jpg
-  - image_path: /assets/images/computers/Commodore_A500/Commodore_Amiga500_top.jpg
-    url: /assets/images/computers/Commodore_A500/Commodore_Amiga500_top.jpg
   - image_path: /assets/images/computers/Commodore_A500/Commodore_Amiga500_detail1.jpg
     url: /assets/images/computers/Commodore_A500/Commodore_Amiga500_detail1.jpg
   - image_path: /assets/images/computers/Commodore_A500/Commodore_Amiga500_floppy1.jpg

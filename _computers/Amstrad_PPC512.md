@@ -1,12 +1,12 @@
 ---
 title: "Amstrad PPC 512"
-excerpt: "Portable PC"
+excerpt: "Portable PC mit NEC V30-CPU"
 manufacturer: "Amstrad"
 year: 1987
 cpu_family: i8088
 type: PPC
 header:
-  teaser: /assets/images/computers/Amstrad_PPC512/Amstrad_PPC512_01.jpg
+  teaser: /assets/images/computers/Amstrad_PPC512/Amstrad_PPC512_02.jpg
 
 gallery:
   - image_path: /assets/images/computers/Amstrad_PPC512/Amstrad_PPC512_01.jpg
@@ -73,7 +73,9 @@ gallery:
 
 Der PPC512 war als günstiges Gerät im Markt platziert und stach vorallem durch seine Tragbarkeit hervor. Die technische Ausstattung war eher einfach: Zum Zeitpunkt der Markeinführung hatten sich PCs mit i80286-Prozessoren und Festplatte bereits durchgesetzt (IBM PC/AT) und der sich ebenfalls auf die i8086-CPU stützende IBM Portable PC (auch PC/XT-kompatibel) war schon drei Jahre im Verkauf.
 
-Immerhin besaß der PPC mit der exotischen NEC V30-CPU einen verbesserten i8086-Prozessor, der mit 8 MHz zudem auch relativ schnell getaktet war (Standard-XT: 4,77 MHz). Auch waren die standardmäßig verbauten 512 kB RAM nahe an der maximalen Ausbaustufe für XT-Rechner (640kB). Eine weitere Besonderheit des Rechners stellt das verbaute TFT-Display dar. Damit gehört der Rechner zu einem der ersten Modelle überhaupt, die einen solchen Bildschirm besaßen. Das leichtgewichtige Display trägt enorm zur Tragbarkeit des Rechners bei. Allerdings auf Kosten der Ergonomie bei der eigentlichen Benutzung: Im Vergleich zu einem Röhrenbildschirm bietet das Bild wenig Kontrast und ist nicht nur träge, sondern auch sehr blickwinkelabhängig. Im Dunkeln ist das Display gar nicht nutzbar - diese ersten LCDs verfügten über keine Hintergrundbeleuchtung. Trotz dieser Umstände war das LCD-Display 1987 sicherlich ein Highlight und Hingucker. Dank der energiesparenden Anzeigetechnologie ist sogar ein Arbeiten unterwegs möglich: Der Computer kann mit 10(!) Alkaline-Zellen (Type-C/R14) einige Stunden lang betrieben werden. NiCd/NiMh-Zellen sollen aufgrund ihrer leicht geringeren Zellenspannung leider nicht funktionieren.
+Immerhin besaß der PPC mit der exotischen NEC V30-CPU einen verbesserten i8086-Prozessor, der mit 8 MHz zudem auch relativ schnell getaktet war (Standard-XT: 4,77 MHz). Auch waren die verbauten 512 kB RAM nahe an der maximalen Ausbaustufe für XT-Rechner (640kB). Eine weitere Besonderheit des Rechners stellt das verbaute TFT-Display dar. Damit gehört der Rechner zu einem der ersten Modelle überhaupt, die einen solchen Bildschirm besaßen. Das leichtgewichtige Display trägt enorm zur Tragbarkeit des Rechners bei. Allerdings auf Kosten der Ergonomie bei der eigentlichen Benutzung: Im Vergleich zu einem Röhrenbildschirm bietet das Bild wenig Kontrast und ist nicht nur träge, sondern auch sehr blickwinkelabhängig. Im Dunkeln ist das Display gar nicht nutzbar - diese ersten LCDs verfügten über keine Hintergrundbeleuchtung.
+
+Trotz dieser Umstände war das LCD-Display 1987 sicherlich ein Highlight und Hingucker. Dank der energiesparenden Anzeigetechnologie ist sogar ein Arbeiten unterwegs möglich: Der Computer kann mit 10(!) Alkaline-Zellen (Type-C/R14) einige Stunden lang betrieben werden. NiCd/NiMh-Zellen sollen aufgrund ihrer leicht geringeren Zellenspannung leider nicht funktionieren.
 
 Im hellen Tageslicht ist der tragbare Rechner mit der angenehmen Full-Size-Tastatur gut nutzbar - wenn man auf die fehlende Festplatte verzichten kann (diese gab es von Drittherstellern).
 
