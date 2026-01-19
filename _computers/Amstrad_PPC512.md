@@ -19,6 +19,8 @@ gallery:
     url: /assets/images/computers/FSC_Loox/Amstrad_PPC512/Amstrad_PPC512_04.jpg
   - image_path: /assets/images/computers/Amstrad_PPC512/Amstrad_PPC512_05.jpg
     url: /assets/images/computers/FSC_Loox/Amstrad_PPC512/Amstrad_PPC512_05.jpg
+  - image_path: /assets/images/computers/Amstrad_PPC512/Amstrad_PPC512_16.jpg
+    url: /assets/images/computers/FSC_Loox/Amstrad_PPC512/Amstrad_PPC512_16.jpg
   - image_path: /assets/images/computers/Amstrad_PPC512/Amstrad_PPC512_06.jpg
     url: /assets/images/computers/FSC_Loox/Amstrad_PPC512/Amstrad_PPC512_06.jpg
   - image_path: /assets/images/computers/Amstrad_PPC512/Amstrad_PPC512_07.jpg
@@ -43,8 +45,6 @@ gallery:
     url: /assets/images/computers/FSC_Loox/Amstrad_PPC512/Amstrad_PPC512_14.jpg
   - image_path: /assets/images/computers/Amstrad_PPC512/Amstrad_PPC512_15.jpg
     url: /assets/images/computers/FSC_Loox/Amstrad_PPC512/Amstrad_PPC512_15.jpg
-  - image_path: /assets/images/computers/Amstrad_PPC512/Amstrad_PPC512_16.jpg
-    url: /assets/images/computers/FSC_Loox/Amstrad_PPC512/Amstrad_PPC512_16.jpg
   - image_path: /assets/images/computers/Amstrad_PPC512/Amstrad_PPC512_detail_0.jpg
     url: /assets/images/computers/FSC_Loox/Amstrad_PPC512/Amstrad_PPC512_detail_0.jpg
   - image_path: /assets/images/computers/Amstrad_PPC512/Amstrad_PPC512_detail_1.jpg
@@ -60,7 +60,7 @@ gallery:
 ---
 
 |**Baujahr**| 1987|
-|**CPU**| NEC V30(μPD70116) @ 8 MHz (enhanced i8086)|
+|**CPU**| NEC V30 (μPD70116) @ 8 MHz (enhanced i8086)|
 |**RAM**| 512 KB|
 |**Display**|640×200 LCD ohne Hintergrundbeleuchtung|
 |**Operating System**| MS DOS 3.3|
