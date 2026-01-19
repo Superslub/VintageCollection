@@ -11,11 +11,11 @@ header:
 gallery:
   - image_path: /assets/images/computers/Loox/FujitsuSiemens_PocketLoox-600_front01.jpg
     url: /assets/images/computers/Loox/FujitsuSiemens_PocketLoox-600_front01.jpg
-    alt: "Oberfläche"
+    alt: "Startbildschirm"
     title: "Vorderansicht"
   - image_path: /assets/images/computers/Loox/FujitsuSiemens_PocketLoox-600_front02.jpg
     url: /assets/images/computers/Loox/FujitsuSiemens_PocketLoox-600_front02.jpg
-    alt: "Startbildschirm"
+    alt: "Oberfläche"
     title: "Vorderansicht"
   - image_path: /assets/images/computers/Loox/FujitsuSiemens_PocketLoox-600_front03.jpg
     url: /assets/images/computers/Loox/FujitsuSiemens_PocketLoox-600_front03.jpg
@@ -42,7 +42,7 @@ gallery:
 
 "Pocket PC" bezeichnet eine Mobilgeräteklasse, auf denen "Windows CE", bzw. "Windows Mobile" als Betriebssystem läuft. Diese Geräteklasse war dem Versuch Microsofts geschuldet, den damaligen PDA-Marktführer Palm anzugreifen. Die Pocket PCs waren (zurecht) ein Rohrkrepierer und wurden alsbald wieder beerdigt.
 
-Die verbaute XScale-CPU war Teil des Versuchs Intels, mit ARM-Cores im Mobile- und Embedded-Segment Fuß zu fassen. Das Experiment währte nur vier Jahre und wurde nach nur vier Jahren 2006 wieder eingestellt.
+Die verbaute XScale-CPU war Teil des Versuchs Intels, mit ARM-Cores im Mobile- und Embedded-Segment Fuß zu fassen. Das Experiment währte nur vier Jahre und wurde schon 2006 wieder eingestellt.
 
 Der Loox vereint damit drei teure, aber nicht zu rettende Unternehmungen in sich: Siemens Versuch, noch etwas in der Consumer-PC-Sparte zu erreichen und die kläglichen Attacken der Giganten Intel und Microsoft, die auf den wachsenden  Mobile-Markt zielten.
 
