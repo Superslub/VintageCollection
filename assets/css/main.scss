@@ -50,6 +50,9 @@ Collection-Grid: Teaserbilder als 1:1-Kachel mit Rahmen/Schatten, zentriert
   max-height: none;
 }
 
+/*
+Collection-Item-Page
+*/
 /* Bild immer vollständig sichtbar (kein Zuschnitt), zentriert */
 .teaser-square .archive__item-teaser img {
   width: 100%;
@@ -62,3 +65,8 @@ Collection-Grid: Teaserbilder als 1:1-Kachel mit Rahmen/Schatten, zentriert
   margin-bottom: 1.25rem;
 }
 
+/* Sidebar-Bild: keine Aufhellung im Normalzustand, auch nicht per Hover */
+.sidebar img.sidebar-image {
+  opacity: 1 !important;
+  filter: none !important;
+}

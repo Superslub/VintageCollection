@@ -22,8 +22,6 @@ gallery:
     url: /assets/images/computers/Psion_Serie5_mx_PRO/Psion_Serie5mx_PRO_02.jpg
   - image_path: /assets/images/computers/Psion_Serie5_mx_PRO/Psion_Serie5mx_PRO_03.jpg
     url: /assets/images/computers/Psion_Serie5_mx_PRO/Psion_Serie5mx_PRO_03.jpg
-  - image_path: /assets/images/computers/Psion_Serie5_mx_PRO/Psion_Serie5mx_PRO_04.jpg
-    url: /assets/images/computers/Psion_Serie5_mx_PRO/Psion_Serie5mx_PRO_04.jpg
   - image_path: /assets/images/computers/Psion_Serie5_mx_PRO/Psion_Serie5mx_PRO_05.jpg
     url: /assets/images/computers/Psion_Serie5_mx_PRO/Psion_Serie5mx_PRO_05.jpg
   - image_path: /assets/images/computers/Psion_Serie5_mx_PRO/Psion_Serie5mx_PRO_06.jpg
@@ -60,8 +58,6 @@ gallery:
     url: /assets/images/computers/Psion_Serie5_mx_PRO/Psion_Serie5mx_PRO_display_03.jpg
   - image_path: /assets/images/computers/Psion_Serie5_mx_PRO/Psion_Serie5mx_PRO_display_04.jpg
     url: /assets/images/computers/Psion_Serie5_mx_PRO/Psion_Serie5mx_PRO_display_04.jpg
-  - image_path: /assets/images/computers/Psion_Serie5_mx_PRO/Psion_Serie5mx_PRO_display_05.jpg
-    url: /assets/images/computers/Psion_Serie5_mx_PRO/Psion_Serie5mx_PRO_display_05.jpg
   - image_path: /assets/images/computers/Psion_Serie5_mx_PRO/Psion_Serie5mx_PRO_display_06.jpg
     url: /assets/images/computers/Psion_Serie5_mx_PRO/Psion_Serie5mx_PRO_display_06.jpg
   - image_path: /assets/images/computers/Psion_Serie5_mx_PRO/Psion_Serie5mx_PRO_display_07.jpg
