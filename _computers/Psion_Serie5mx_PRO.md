@@ -74,7 +74,7 @@ gallery:
 ---
 
 |**Jahr**| 1999|
-|**CPU**| ARM 710T @ 36,9 MHz|
+|**CPU**| ARM 710T @ 37 MHz|
 |**RAM**| 32 MB|
 |**Display**|640×240 Pixel mit zuschaltbarer Hintergrundbeleuchtung|
 |**Operating System**| EPOC Release 5 |
@@ -82,7 +82,7 @@ gallery:
 |**Energieversorung**| 2 x AA-Zelle bei ~50 mA /80 mA Verbrauch (mit/ohne Hintergrundbeleuchtung)|
 |**Eigenschaften**| Speicherkartenslot, eingebauter Lautsprecher |
 |**Zustand**| funktioniert |
-|**Bemerkungen**| Stylus fehlt, bei Hintergrundbeleuchtung hört man den Step-Up-Wandler (leise)| 
+|**Bemerkungen**| Stylus fehlt | 
 
 
 {% include gallery class="mm-gallery--letterbox" %}

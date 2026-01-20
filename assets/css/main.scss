@@ -32,7 +32,8 @@ Galerie: Teaserbilder vollständig anzeigen (Letterboxing)
 Collection-Grid: Teaserbilder als 1:1-Kachel mit Rahmen/Schatten, zentriert
 */
 .teaser-square .archive__item-teaser {
-  aspect-ratio: 1 / 1;
+  max-height: none;                 /* Theme-Begrenzung aufheben */
+  aspect-ratio: 1 / 1;              /* Quadrat */
   padding: 0.5rem;
 
   display: flex;
@@ -43,30 +44,27 @@ Collection-Grid: Teaserbilder als 1:1-Kachel mit Rahmen/Schatten, zentriert
   border-radius: 0.35rem;
   box-shadow: 0 2px 10px rgba(0, 0, 0, 0.10);
 
-  /* optional: Hintergrund für Letterboxing-Flächen */
-  background: rgba(255, 255, 255, 0.9);
-
-  /* verhindert, dass Theme-Höhenbegrenzungen „abschneiden“ */
-  max-height: none;
+  background: rgba(255, 255, 255, 0.9); /* Letterbox-Flächen */
 }
-
 /*
 Collection-Item-Page
 */
-/* Bild immer vollständig sichtbar (kein Zuschnitt), zentriert */
 .teaser-square .archive__item-teaser img {
   width: 100%;
   height: 100%;
-  object-fit: contain;  /* Letterboxing */
+  object-fit: contain;              /* kein Zuschnitt */
   display: block;
 }
 
+/* optional: etwas mehr Abstand zwischen den Karten */
 .teaser-square .archive__item {
   margin-bottom: 1.25rem;
 }
 
-/* Sidebar-Bild: keine Aufhellung im Normalzustand, auch nicht per Hover */
-.sidebar.sticky img {
+
+
+/* Sidebar-Bild: keine Aufhellung im Normalzustand, auch nicht per Hover 
+.sidebar {
   opacity: 1 !important;
   filter: none !important;
-}
+}*/
