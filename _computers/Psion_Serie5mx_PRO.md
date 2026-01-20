@@ -11,7 +11,8 @@ header:
   teaser: /assets/images/computers/Psion_Serie5_mx_PRO/Psion_Serie5mx_PRO_00.jpg
 
 sidebar:
-  - image: "/assets/images/computers/Psion_Serie5_mx_PRO/Psion_Serie5mx_PRO_01.jpg"
+  - title: ""
+    image: "/assets/images/computers/Psion_Serie5_mx_PRO/Psion_Serie5mx_PRO_01.jpg"
     text: |
 	  <a href="https://de.wikipedia.org/wiki/Psion#Psion_Serie_5mx" target="_blank" rel="noopener noreferrer">PSION Serie 5</a><br>
 	  <a href="https://de.wikipedia.org/wiki/EPOC" target="_blank" rel="noopener noreferrer">EPOC OS</a><br>

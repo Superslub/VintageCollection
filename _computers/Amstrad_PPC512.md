@@ -11,7 +11,8 @@ header:
   teaser: /assets/images/computers/Amstrad_PPC512/Amstrad_PPC512_02.jpg
   
 sidebar:
-  - image: "/assets/images/computers/Amstrad_PPC512/Amstrad_PPC512_13.jpg"
+  - title: ""
+    image: "/assets/images/computers/Amstrad_PPC512/Amstrad_PPC512_13.jpg"
     image_alt: "Amstrad PPC 512"
     text: |
 	  <a href="https://en.wikipedia.org/wiki/Amstrad_PPC" target="_blank" rel="noopener noreferrer">Wikipedia (en)</a>
