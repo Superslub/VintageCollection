@@ -5,6 +5,7 @@ manufacturer: "Atari Corporation"
 year: 1989
 cpu_family: i8088
 type: PDA
+order: 30
 
 header:
   teaser: /assets/images/computers/Atari_Portfolio/Atari_Portfolio_01.jpg

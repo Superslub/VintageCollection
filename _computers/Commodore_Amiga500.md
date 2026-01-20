@@ -5,6 +5,7 @@ manufacturer: "Commodore International"
 year: 1991
 cpu_family: M68k
 type: Heimcomputer
+order: 20
 
 header:
   teaser: /assets/images/computers/Commodore_A500/Commodore_Amiga500_all1.jpg

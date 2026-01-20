@@ -5,6 +5,8 @@ manufacturer: "Amstrad"
 year: 1987
 cpu_family: i8088
 type: PPC
+order: 10
+
 header:
   teaser: /assets/images/computers/Amstrad_PPC512/Amstrad_PPC512_02.jpg
   

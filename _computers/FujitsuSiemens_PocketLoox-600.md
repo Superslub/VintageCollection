@@ -5,6 +5,7 @@ manufacturer: "Fujitsu Siemens Computers (FSC)"
 year: 2005
 cpu_family: ARM
 type: PDA
+order: 50
 
 header:
   teaser: /assets/images/computers/FSC_Loox/FujitsuSiemens_PocketLoox-600_01.jpg
