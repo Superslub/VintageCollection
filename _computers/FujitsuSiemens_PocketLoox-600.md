@@ -9,8 +9,6 @@ header:
   teaser: /assets/images/computers/FSC_Loox/FujitsuSiemens_PocketLoox-600_01.jpg
 
 gallery:
-FujitsuSiemens_PocketLoox-600_0
-
   - image_path: /assets/images/computers/FSC_Loox/FujitsuSiemens_PocketLoox-600_01.jpg
     url: /assets/images/computers/FSC_Loox/FujitsuSiemens_PocketLoox-600_01.jpg
   - image_path: /assets/images/computers/FSC_Loox/FujitsuSiemens_PocketLoox-600_02.jpg
