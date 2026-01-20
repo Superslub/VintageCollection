@@ -1,5 +1,5 @@
 ---
-title: "Atari Portfolio"
+title: "FSC Pocket Loox 600"
 excerpt: "Ein Windows-PDA mit ARM-CPU von Intel"
 manufacturer: "Fujitsu Siemens Computers (FSC)"
 year: 2005
@@ -7,56 +7,66 @@ cpu_family: ARM
 type: PDA
 
 header:
-  teaser: /assets/images/computers/Atari_Portfolio/Atari_Portfolio_01.jpg
+  teaser: /assets/images/computers/FSC_Loox/FujitsuSiemens_PocketLoox-600_01.jpg
 
 sidebar:
-  - title: "Atari Portfolio"
-    image: "/assets/images/computers/Atari_Portfolio/Atari_Portfolio_00.jpg"
+  - title: "Loox 500"
+    image: "/assets/images/computers/FSC_Loox/FujitsuSiemens_PocketLoox-600_00.jpg"
+    image_alt: "Pocket Loox 600"
     text: |
-      [Wikipedia](https://de.wikipedia.org/wiki/Atari_Portfolio)
+      [Wikipedia](https://de.wikipedia.org/wiki/FSC_Loox)
 
 gallery:
-  - image_path: /assets/images/computers/Atari_Portfolio/Atari_Portfolio_01.jpg
-    url: /assets/images/computers/Atari_Portfolio/Atari_Portfolio_01.jpg
-  - image_path: /assets/images/computers/Atari_Portfolio/Atari_Portfolio_02.jpg
-    url: /assets/images/computers/Atari_Portfolio/Atari_Portfolio_02.jpg
-  - image_path: /assets/images/computers/Atari_Portfolio/Atari_Portfolio_03.jpg
-    url: /assets/images/computers/Atari_Portfolio/Atari_Portfolio_03.jpg
-  - image_path: /assets/images/computers/Atari_Portfolio/Atari_Portfolio_04.jpg
-    url: /assets/images/computers/Atari_Portfolio/Atari_Portfolio_04.jpg
-  - image_path: /assets/images/computers/Atari_Portfolio/Atari_Portfolio_05.jpg
-    url: /assets/images/computers/Atari_Portfolio/Atari_Portfolio_05.jpg
-  - image_path: /assets/images/computers/Atari_Portfolio/Atari_Portfolio_06.jpg
-    url: /assets/images/computers/Atari_Portfolio/Atari_Portfolio_06.jpg
-  - image_path: /assets/images/computers/Atari_Portfolio/Atari_Portfolio_07.jpg
-    url: /assets/images/computers/Atari_Portfolio/Atari_Portfolio_07.jpg
-  - image_path: /assets/images/computers/Atari_Portfolio/Atari_Portfolio_cards_0.jpg
-    url: /assets/images/computers/Atari_Portfolio/Atari_Portfolio_cards_0.jpg
-  - image_path: /assets/images/computers/Atari_Portfolio/Atari_Portfolio_cards_1.jpg
-    url: /assets/images/computers/Atari_Portfolio/Atari_Portfolio_cards_1.jpg
-  - image_path: /assets/images/computers/Atari_Portfolio/Atari_Portfolio_cards_2.jpg
-    url: /assets/images/computers/Atari_Portfolio/Atari_Portfolio_cards_2.jpg
-  - image_path: /assets/images/computers/Atari_Portfolio/Atari_Portfolio_display_1.jpg
-    url: /assets/images/computers/Atari_Portfolio/Atari_Portfolio_display_1.jpg
-  - image_path: /assets/images/computers/Atari_Portfolio/Atari_Portfolio_display_2.jpg
-    url: /assets/images/computers/Atari_Portfolio/Atari_Portfolio_display_2.jpg
-  - image_path: /assets/images/computers/Atari_Portfolio/Atari_Portfolio_manual_1.jpg
-    url: /assets/images/computers/Atari_Portfolio/Atari_Portfolio_manual_1.jpg
-  - image_path: /assets/images/computers/Atari_Portfolio/Atari_Portfolio_book.jpg
-    url: /assets/images/computers/Atari_Portfolio/Atari_Portfolio_book.jpg
-  
+  - image_path: /assets/images/computers/FSC_Loox/FujitsuSiemens_PocketLoox-600_05.jpg
+    url: /assets/images/computers/FSC_Loox/FujitsuSiemens_PocketLoox-600_05.jpg
+  - image_path: /assets/images/computers/FSC_Loox/FujitsuSiemens_PocketLoox-600_01.jpg
+    url: /assets/images/computers/FSC_Loox/FujitsuSiemens_PocketLoox-600_01.jpg
+  - image_path: /assets/images/computers/FSC_Loox/FujitsuSiemens_PocketLoox-600_02.jpg
+    url: /assets/images/computers/FSC_Loox/FujitsuSiemens_PocketLoox-600_02.jpg
+  - image_path: /assets/images/computers/FSC_Loox/FujitsuSiemens_PocketLoox-600_03.jpg
+    url: /assets/images/computers/FSC_Loox/FujitsuSiemens_PocketLoox-600_03.jpg
+  - image_path: /assets/images/computers/FSC_Loox/FujitsuSiemens_PocketLoox-600_04.jpg
+    url: /assets/images/computers/FSC_Loox/FujitsuSiemens_PocketLoox-600_04.jpg
+  - image_path: /assets/images/computers/FSC_Loox/FujitsuSiemens_PocketLoox-600_07.jpg
+    url: /assets/images/computers/FSC_Loox/FujitsuSiemens_PocketLoox-600_07.jpg
+  - image_path: /assets/images/computers/FSC_Loox/FujitsuSiemens_PocketLoox-600_08.jpg
+    url: /assets/images/computers/FSC_Loox/FujitsuSiemens_PocketLoox-600_08.jpg
+  - image_path: /assets/images/computers/FSC_Loox/FujitsuSiemens_PocketLoox-600_09.jpg
+    url: /assets/images/computers/FSC_Loox/FujitsuSiemens_PocketLoox-600_09.jpg
+  - image_path: /assets/images/computers/FSC_Loox/FujitsuSiemens_PocketLoox-600_10.jpg
+    url: /assets/images/computers/FSC_Loox/FujitsuSiemens_PocketLoox-600_10.jpg
+  - image_path: /assets/images/computers/FSC_Loox/FujitsuSiemens_PocketLoox-600_06.jpg
+    url: /assets/images/computers/FSC_Loox/FujitsuSiemens_PocketLoox-600_06.jpg
+  - image_path: /assets/images/computers/FSC_Loox/FujitsuSiemens_PocketLoox-600_front01.jpg
+    url: /assets/images/computers/FSC_Loox/FujitsuSiemens_PocketLoox-600_front01.jpg
+  - image_path: /assets/images/computers/FSC_Loox/FujitsuSiemens_PocketLoox-600_front02.jpg
+    url: /assets/images/computers/FSC_Loox/FujitsuSiemens_PocketLoox-600_front02.jpg
+  - image_path: /assets/images/computers/FSC_Loox/FujitsuSiemens_PocketLoox-600_front03.jpg
+    url: /assets/images/computers/FSC_Loox/FujitsuSiemens_PocketLoox-600_front03.jpg
+  - image_path: /assets/images/computers/FSC_Loox/FujitsuSiemens_PocketLoox-600_front04.jpg
+    url: /assets/images/computers/FSC_Loox/FujitsuSiemens_PocketLoox-600_front04.jpg
+  - image_path: /assets/images/computers/FSC_Loox/FujitsuSiemens_PocketLoox-600_display_01.jpg
+    url: /assets/images/computers/FSC_Loox/FujitsuSiemens_PocketLoox-600_display_01.jpg
+
 ---
 
-|**Baujahr**| 1989|
-|**CPU**| Intel 80C88 @ 4,9 MHz|
-|**RAM**| 128 KB|
-|**Display**|240×64 Pixel (40×8 Zeichen)|
-|**Operating System**| DIP-DOS (MS-DOS 2.11) |
-|**Interfaces**| Erweiterungsport |
-|**Energieversorung**| 3 x AA-Zelle |
-|**Eigenschaften**| Speicherkartenslot, eingebauter Lautsprecher |
-|**Zustand**| funktioniert |
-|**Bemerkungen**| Displaykabel bruchanfällig, Gelenk wurde am Gerät deshalb geringfügig modifiziert| 
+|**Baujahr**| 2005|
+|**CPU**| Intel XScale PXA250 @ 400MHz|
+|**RAM**| 64 MB|
+|**Display**|240×320 Pixel Touchscreen (mit Stylus zu bedienen)|
+|**Operating System**| Windows Mobile for PocketPC 2002|
+|**Interfaces**| IrDA, Bluetooth 1.1, Audio|
+|**Akku**| 1440 mAh LiPo |
+|**Eigenschaften**| Hardware On/Off-Schalter, Stylus, Cradle, Netzteil, PCMCIA-Slot (oben), es gab auch PCMCIA-Wifi-Karten |
+|**Zustand**| funktioniert, Abdeckung IrDA-Port fehlt |
+|**Bemerkungen**| zeittypischer Silberlack, MS Pocket PC 2002 verlangt nach jedem Neueinschalten ein kleines Tutorial und eine Kalibrierung des Touchscreens | 
 
+"Pocket PC" bezeichnet eine Mobilgeräteklasse, auf denen "Windows CE", bzw. "Windows Mobile" als Betriebssystem läuft. Diese Geräteklasse war dem Versuch Microsofts geschuldet, den damaligen PDA-Marktführer Palm anzugreifen. Die Pocket PCs waren (zurecht) ein Rohrkrepierer und wurden alsbald wieder beerdigt.
+
+Die verbaute XScale-CPU war Teil des Versuchs Intels, mit ARM-Cores im Mobile- und Embedded-Segment Fuß zu fassen. Das Experiment währte nur vier Jahre und wurde schon 2006 wieder eingestellt.
+
+Der Loox vereint damit drei teure, aber nicht zu rettende Unternehmungen in sich: Siemens Versuch, noch etwas in der Consumer-PC-Sparte zu erreichen und die kläglichen Attacken der Giganten Intel und Microsoft, die auf den wachsenden  Mobile-Markt zielten.
+
+Das Gerät an sich (Loox) ist von guter Qualität, wenn auch die Dockingstation etwas knarzig daherkommt.
 
 {% include gallery class="mm-gallery--letterbox" %}
