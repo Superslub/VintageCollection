@@ -8,6 +8,13 @@ type: Heimcomputer
 header:
   teaser: /assets/images/computers/Commodore_A500/Commodore_Amiga500_all1.jpg
 
+
+sidebar:
+  - title: "Amiga 500"
+    image: "/assets/images/computers/Commodore_A500/Commodore_Amiga500_detail1.jpg"
+    image_alt: "Amiga 500"
+    text: |
+      [Wikipedia](https://de.wikipedia.org/wiki/Amiga_500)
 gallery:
   - image_path: /assets/images/computers/Commodore_A500/Commodore_Amiga500_1.jpg
     url: /assets/images/computers/Commodore_A500/Commodore_Amiga500_1.jpg

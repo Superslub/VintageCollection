@@ -7,7 +7,13 @@ cpu_family: i8088
 type: PPC
 header:
   teaser: /assets/images/computers/Amstrad_PPC512/Amstrad_PPC512_02.jpg
-
+  
+sidebar:
+  - title: "PPC 512"
+    image: "/assets/images/computers/Amstrad_PPC512/Amstrad_PPC512_13.jpg"
+    image_alt: "Amstrad PPC 512"
+    text: |
+      [Wikipedia](https://en.wikipedia.org/wiki/Amstrad_PPC) (en)
 gallery:
   - image_path: /assets/images/computers/Amstrad_PPC512/Amstrad_PPC512_02.jpg
     url: /assets/images/computers/Amstrad_PPC512/Amstrad_PPC512_02.jpg

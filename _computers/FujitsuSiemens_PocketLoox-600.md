@@ -6,6 +6,8 @@ year: 2005
 cpu_family: ARM
 type: PDA
 
+header:
+  teaser: /assets/images/computers/FSC_Loox/FujitsuSiemens_PocketLoox-600_01.jpg
 
 sidebar:
   - title: "Loox 500"
@@ -13,9 +15,6 @@ sidebar:
     image_alt: "Pocket Loox 600"
     text: |
       [Wikipedia](https://de.wikipedia.org/wiki/FSC_Loox)
-
-header:
-  teaser: /assets/images/computers/FSC_Loox/FujitsuSiemens_PocketLoox-600_01.jpg
 
 gallery:
   - image_path: /assets/images/computers/FSC_Loox/FujitsuSiemens_PocketLoox-600_05.jpg
