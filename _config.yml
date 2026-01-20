@@ -100,9 +100,11 @@ defaults:
   - scope:
       path: ""
       type: computers
+      sidebar:
+        nav: "collection"
     values:
       layout: single
-      classes: wide
+      classes: wide teaser-contain teaser-square
       author_profile: false
       share: false
 

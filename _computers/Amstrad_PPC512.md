@@ -65,7 +65,7 @@ gallery:
 
 ---
 
-|**Baujahr**| 1987|
+|**Jahr**| 1987|
 |**CPU**| NEC V30 (μPD70116) @ 8 MHz (enhanced i8086)|
 |**RAM**| 512 KB|
 |**Display**|640×200 LCD ohne Hintergrundbeleuchtung|

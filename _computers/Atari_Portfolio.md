@@ -30,24 +30,14 @@ gallery:
     url: /assets/images/computers/Atari_Portfolio/Atari_Portfolio_06.jpg
   - image_path: /assets/images/computers/Atari_Portfolio/Atari_Portfolio_07.jpg
     url: /assets/images/computers/Atari_Portfolio/Atari_Portfolio_07.jpg
-  - image_path: /assets/images/computers/Atari_Portfolio/Atari_Portfolio_08.jpg
-    url: /assets/images/computers/Atari_Portfolio/Atari_Portfolio_08.jpg
   - image_path: /assets/images/computers/Atari_Portfolio/Atari_Portfolio_09.jpg
     url: /assets/images/computers/Atari_Portfolio/Atari_Portfolio_09.jpg
-  - image_path: /assets/images/computers/Atari_Portfolio/Atari_Portfolio_10.jpg
-    url: /assets/images/computers/Atari_Portfolio/Atari_Portfolio_10.jpg
   - image_path: /assets/images/computers/Atari_Portfolio/Atari_Portfolio_11.jpg
     url: /assets/images/computers/Atari_Portfolio/Atari_Portfolio_11.jpg
-  - image_path: /assets/images/computers/Atari_Portfolio/Atari_Portfolio_12.jpg
-    url: /assets/images/computers/Atari_Portfolio/Atari_Portfolio_12.jpg
   - image_path: /assets/images/computers/Atari_Portfolio/Atari_Portfolio_13.jpg
     url: /assets/images/computers/Atari_Portfolio/Atari_Portfolio_13.jpg
-  - image_path: /assets/images/computers/Atari_Portfolio/Atari_Portfolio_14.jpg
-    url: /assets/images/computers/Atari_Portfolio/Atari_Portfolio_14.jpg
   - image_path: /assets/images/computers/Atari_Portfolio/Atari_Portfolio_15.jpg
     url: /assets/images/computers/Atari_Portfolio/Atari_Portfolio_15.jpg
-  - image_path: /assets/images/computers/Atari_Portfolio/Atari_Portfolio_16.jpg
-    url: /assets/images/computers/Atari_Portfolio/Atari_Portfolio_16.jpg
   - image_path: /assets/images/computers/Atari_Portfolio/Atari_Portfolio_cards_0.jpg
     url: /assets/images/computers/Atari_Portfolio/Atari_Portfolio_cards_0.jpg
   - image_path: /assets/images/computers/Atari_Portfolio/Atari_Portfolio_cards_1.jpg
@@ -65,7 +55,7 @@ gallery:
   
 ---
 
-|**Baujahr**| 1989|
+|**Jahr**| 1989|
 |**CPU**| Intel 80C88 @ 4,9 MHz|
 |**RAM**| 128 KB|
 |**Display**|240×64 Pixel (40×8 Zeichen)|

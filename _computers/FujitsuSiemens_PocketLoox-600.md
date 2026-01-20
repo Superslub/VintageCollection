@@ -50,7 +50,7 @@ gallery:
 
 ---
 
-|**Baujahr**| 2005|
+|**Jahr**| 2005|
 |**CPU**| Intel XScale PXA250 @ 400MHz|
 |**RAM**| 64 MB|
 |**Display**|240×320 Pixel Touchscreen (mit Stylus zu bedienen)|

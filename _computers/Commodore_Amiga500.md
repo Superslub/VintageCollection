@@ -49,7 +49,7 @@ gallery:
 
 ---
 
-|**Baujahr**| 1991|
+|**Jahr**| 1991|
 |**CPU**| Motorola 68000 @ 7,09 MHz|
 |**RAM**| 512 KB|
 |**Operating System**| Amiga OS 1.3|
