@@ -10,11 +10,11 @@ header:
   teaser: /assets/images/computers/Commodore_A500/Commodore_Amiga500_all1.jpg
 
 sidebar:
-  - title: "Amiga 500"
-    image: "/assets/images/computers/Commodore_A500/Commodore_Amiga500_detail1.jpg"
+  - image: "/assets/images/computers/Commodore_A500/Commodore_Amiga500_detail1.jpg"
     image_alt: "Amiga 500"
     text: |
-      [Wikipedia](https://de.wikipedia.org/wiki/Amiga_500)
+	  <a href="https://de.wikipedia.org/wiki/Amiga_500" target="_blank" rel="noopener noreferrer">Wikipedia (en)</a>
+      
 gallery:
   - image_path: /assets/images/computers/Commodore_A500/Commodore_Amiga500_1.jpg
     url: /assets/images/computers/Commodore_A500/Commodore_Amiga500_1.jpg

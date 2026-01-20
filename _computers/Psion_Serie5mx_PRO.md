@@ -12,9 +12,9 @@ header:
 sidebar:
   - image: "/assets/images/computers/Psion_Serie5_mx_PRO/Psion_Serie5mx_PRO_01.jpg"
     text: |
-      [PSION Serie 5](https://de.wikipedia.org/wiki/Psion#Psion_Serie_5mx)  
-      [EPOC OS](https://de.wikipedia.org/wiki/EPOC)  
-      [Java on EPOC](https://web.archive.org/web/20030219150904/http://www.foxpop.ndirect.co.uk/Java/java_01.htm)
+	  <a href="https://de.wikipedia.org/wiki/Psion#Psion_Serie_5mx" target="_blank" rel="noopener noreferrer">PSION Serie 5</a><br>
+	  <a href="https://de.wikipedia.org/wiki/EPOC" target="_blank" rel="noopener noreferrer">EPOC OS</a><br>
+	  <a href="https://web.archive.org/web/20030219150904/http://www.foxpop.ndirect.co.uk/Java/java_01.htm" target="_blank" rel="noopener noreferrer">Java on EPOC</a><br>
 
 gallery:
   - image_path: /assets/images/computers/Psion_Serie5_mx_PRO/Psion_Serie5mx_PRO_02.jpg

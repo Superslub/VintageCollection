@@ -10,11 +10,10 @@ header:
   teaser: /assets/images/computers/FSC_Loox/FujitsuSiemens_PocketLoox-600_01.jpg
 
 sidebar:
-  - title: "Loox 500"
-    image: "/assets/images/computers/FSC_Loox/FujitsuSiemens_PocketLoox-600_00.jpg"
+  - image: "/assets/images/computers/FSC_Loox/FujitsuSiemens_PocketLoox-600_00.jpg"
     image_alt: "Pocket Loox 600"
     text: |
-      [Wikipedia](https://de.wikipedia.org/wiki/FSC_Loox)
+	  <a href="https://de.wikipedia.org/wiki/FSC_Loox" target="_blank" rel="noopener noreferrer">Wikipedia</a>
 
 gallery:
   - image_path: /assets/images/computers/FSC_Loox/FujitsuSiemens_PocketLoox-600_05.jpg
