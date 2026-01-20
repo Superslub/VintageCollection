@@ -15,7 +15,7 @@ sidebar:
     image: "/assets/images/computers/Amstrad_PPC512/Amstrad_PPC512_13.jpg"
     image_alt: "Amstrad PPC 512"
     text: |
-	  <a href="https://en.wikipedia.org/wiki/Amstrad_PPC" target="_blank" rel="noopener noreferrer">Wikipedia (en)</a>
+      <a href="https://en.wikipedia.org/wiki/Amstrad_PPC" target="_blank" rel="noopener noreferrer">Wikipedia (en)</a>
 
 gallery:
   - image_path: /assets/images/computers/Amstrad_PPC512/Amstrad_PPC512_02.jpg

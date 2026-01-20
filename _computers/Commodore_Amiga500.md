@@ -15,7 +15,7 @@ sidebar:
     image: "/assets/images/computers/Commodore_A500/Commodore_Amiga500_detail1.jpg"
     image_alt: "Amiga 500"
     text: |
-	  <a href="https://de.wikipedia.org/wiki/Amiga_500" target="_blank" rel="noopener noreferrer">Wikipedia (en)</a>
+      <a href="https://de.wikipedia.org/wiki/Amiga_500" target="_blank" rel="noopener noreferrer">Wikipedia (en)</a>
       
 gallery:
   - image_path: /assets/images/computers/Commodore_A500/Commodore_Amiga500_1.jpg
