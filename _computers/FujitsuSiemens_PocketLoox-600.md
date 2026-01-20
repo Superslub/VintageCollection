@@ -11,7 +11,7 @@ header:
   teaser: /assets/images/computers/FSC_Loox/FujitsuSiemens_PocketLoox-600_01.jpg
 
 sidebar:
-  - title: ""
+  - title: "Loox"
     image: "/assets/images/computers/FSC_Loox/FujitsuSiemens_PocketLoox-600_00.jpg"
     image_alt: "Pocket Loox 600"
     text: |

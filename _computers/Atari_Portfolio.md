@@ -11,7 +11,7 @@ header:
   teaser: /assets/images/computers/Atari_Portfolio/Atari_Portfolio_01.jpg
 
 sidebar:
-  - title: ""
+  - title: "Portfolio"
     image: "/assets/images/computers/Atari_Portfolio/Atari_Portfolio_00.jpg"
     text: |
       [Wikipedia](https://de.wikipedia.org/wiki/Atari_Portfolio)
