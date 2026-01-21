@@ -13,7 +13,7 @@ header:
 sidebar:
   - title: "Links"
     image: "/assets/images/computers/Atari_Portfolio/Atari_Portfolio_00.jpg"
-    text: |
+    text: |    
       <a href="https://de.wikipedia.org/wiki/Atari_Portfolio" target="_blank" rel="noopener noreferrer">Wikipedia</a><br>
 
 gallery:
