@@ -1,6 +1,6 @@
 ---
 title: "Commodore Amiga\u00A0500"
-excerpt: "16/32-Bit Homecomputer mit 68000-er"
+excerpt: "16/32-Bit Homecomputer mit 68000-er (1991)"
 manufacturer: "Commodore International"
 year: 1991
 cpu_family: M68k
@@ -54,8 +54,8 @@ gallery:
 |**Jahr**| 1991|
 |**CPU**| Motorola 68000 @ 7,09 MHz|
 |**RAM**| 512 kB|
-|**Operating System**| Amiga OS 1.3|
-|**Interfaces**| Audio, Display (RGB), Floppy, Parallel, Serial, 2xJoystick/Maus|
+|**Betriebssystem***| Amiga OS 1.3|
+|**Schnittstellen**| Audio, Display (RGB), Floppy, Parallel, Serial, 2xJoystick/Maus|
 |**Zustand**| funktioniert, unverbastelt/keine Gehäusemodifikationen, bis auf Tastatur wenig Gilb |
 |**Bemerkungen**| später 500er, schon mit Board vom 500+| 
 |**vorh. Zubehör**| externe Floppy, int. Speichererweiterung (512 kB) mit Echtzeituhr, Tank-Mouse, Video-Backup-System, SCART-Kabel | 

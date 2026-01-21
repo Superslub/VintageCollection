@@ -1,6 +1,6 @@
 ---
 title: "Atari Portfolio"
-excerpt: "16-Bit Westentaschen-Computer"
+excerpt: "16-Bit Westentaschen-Computer (1989)"
 manufacturer: "Atari Corporation"
 year: 1989
 cpu_family: i8088
@@ -59,9 +59,9 @@ gallery:
 |**Jahr**| 1989|
 |**CPU**| Intel 80C88 @ 4,9 MHz|
 |**RAM**| 128 kB|
-|**Display**|240×64 Pixel (40×8 Zeichen) ohne Hintergrundbeleuchtung|
-|**Operating System**| DIP-DOS (MS-DOS 2.11) |
-|**Interfaces**| Erweiterungsport |
+|**Anzeige**|240×64 Pixel (40×8 Zeichen) ohne Hintergrundbeleuchtung|
+|**Betriebssystem***| DIP-DOS (MS-DOS 2.11) |
+|**Schnittstellen**| Erweiterungsport |
 |**Energieversorung**| 3 x AA-Zelle |
 |**Eigenschaften**| Speicherkartenslot, eingebauter Lautsprecher |
 |**Zustand**| funktioniert |

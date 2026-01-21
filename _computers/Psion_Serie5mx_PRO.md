@@ -1,6 +1,6 @@
 ---
 title: "PSION Serie 5mx PRO"
-excerpt: "PDA mit EPOC und JavaVM"
+excerpt: "PDA mit EPOC und JavaVM (1999)"
 manufacturer: "Psion Plc."
 year: 1999
 cpu_family: ARM
@@ -77,9 +77,9 @@ gallery:
 |**Jahr**| 1999|
 |**CPU**| ARM 710T @ 37 MHz|
 |**RAM**| 32 MB|
-|**Display**|640×240 Pixel|
-|**Operating System**| EPOC Release 5 |
-|**Interfaces**| PCMCIA-Karte, IrDA |
+|**Anzeige**|640×240 Pixel|
+|**Betriebssystem***| EPOC Release 5 |
+|**Schnittstellen**| PCMCIA-Karte, IrDA |
 |**Energieversorung**| 2 x AA-Zelle bei ~50 mA / 80 mA Verbrauch (mit/ohne Hintergrundbeleuchtung)|
 |**Eigenschaften**| WAP/Internetbrowser, Sprachnachrichtenrekorder, hintergrundbeleuchtetes Monochrom-LCD-Display (15 Grautöne) |
 |**Zustand**| funktioniert |

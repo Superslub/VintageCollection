@@ -1,6 +1,6 @@
 ---
 title: "Amstrad PPC 512"
-excerpt: "Portable PC mit NEC V30-CPU"
+excerpt: "Portable PC mit NEC V30-CPU (1987)"
 manufacturer: "Amstrad"
 year: 1987
 cpu_family: i8088
@@ -71,12 +71,12 @@ gallery:
 |**Jahr**| 1987|
 |**CPU**| NEC V30 (μPD70116) @ 8 MHz (enhanced i8086)|
 |**RAM**| 512 kB|
-|**Display**|640×200 LCD ohne Hintergrundbeleuchtung|
-|**Operating System**| MS DOS 3.3|
-|**Interfaces**| Seriell, Parallel, Video (MDA/CGA), 2x 8Bit-ISA-Bus ("Erweiterung A/B"), Monitoranschluß ...|
+|**Anzeige**|640×200 LCD ohne Hintergrundbeleuchtung|
+|**Betriebssystem***| MS DOS 3.3|
+|**Schnittstellen**| Seriell, Parallel, Video (MDA/CGA), 2x 8Bit-ISA-Bus ("Erweiterung A/B"), Monitoranschluß ...|
 |**Eigenschaften**| 2x 720 kB-Floppylaufwerke, keine HDD, mobiler Betrieb mit 10 TypeC/R14-Zellen möglich|
 |**Zustand**| funktioniert |
-|**Beerkungen**| DIP-Switches zur Einstellung der Videoausgabe (MDA/CGA, int.Display/ext.Monitor) |
+|**Bemerkungen**| DIP-Switches zur Einstellung der Videoausgabe (MDA/CGA, int.Display/ext.Monitor) |
 
 "Portable-PCs" sind der Vorläufer der heutigen Laptops und Notebooks. Der Fokus dieser tragbaren Geräte liegt auf ihrer Transportfähigkeit - meint: Man konnte den PC relativ leicht "irgendwo mit hinnehmen", z.B. zum Kunden. Dass das Gerät auch unterwegs zu benutzen, war eher als Bonus zu betrachten.
 

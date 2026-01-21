@@ -1,6 +1,6 @@
 ---
 title: "FSC Pocket Loox 600"
-excerpt: "Windows-PDA mit ARM-CPU von Intel"
+excerpt: "Windows-PDA mit ARM-CPU von Intel (2005)"
 manufacturer: "Fujitsu Siemens Computers (FSC)"
 year: 2005
 cpu_family: ARM
@@ -54,9 +54,9 @@ gallery:
 |**Jahr**| 2005|
 |**CPU**| Intel XScale PXA250 @ 400MHz|
 |**RAM**| 64 MB|
-|**Display**|240×320 Pixel Touchscreen (mit Stylus zu bedienen)|
-|**Operating System**| Windows Mobile for PocketPC 2002|
-|**Interfaces**| IrDA, Bluetooth 1.1, Audio|
+|**Anzeige**|240×320 Pixel Touchscreen (mit Stylus zu bedienen)|
+|**Betriebssystem***| Windows Mobile for PocketPC 2002|
+|**Schnittstellen**| IrDA, Bluetooth 1.1, Audio|
 |**Akku**| 1440 mAh LiPo |
 |**Eigenschaften**| Hardware On/Off-Schalter, Stylus, Cradle, Netzteil, PCMCIA-Slot (oben), es gab auch PCMCIA-Wifi-Karten |
 |**Zustand**| funktioniert, Abdeckung IrDA-Port fehlt |
