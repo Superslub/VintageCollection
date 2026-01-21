@@ -46,6 +46,28 @@ Collection-Grid: Teaserbilder als 1:1-Kachel mit Rahmen/Schatten, zentriert
 
   background: rgba(255, 255, 255, 0.9); /* Letterbox-Flächen */
 }
+/* Collection Grid: 1 / 2 / 3 Spalten (responsive) */
+.three-col .entries-grid {
+  display: grid;
+  gap: 1.25rem;
+  grid-template-columns: 1fr;
+}
+
+@media (min-width: 48em) {
+  .three-col .entries-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+
+@media (min-width: 64em) {
+  .three-col .entries-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+}
+
+/* Theme-Floats deaktivieren */
+.three-col .entries-grid .grid__item {
+  float: none;
+  width: auto;
+}
+
+
 /*
 Collection-Item-Page
 */
