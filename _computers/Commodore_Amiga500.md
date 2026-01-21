@@ -1,6 +1,6 @@
 ---
 title: "Commodore Amiga\u00A0500"
-excerpt: "16/32-Bit Homecomputer mit 68000-er (1991)"
+excerpt: "DER 16/32-Bit Homecomputer (1991)"
 manufacturer: "Commodore International"
 year: 1991
 cpu_family: M68k

@@ -64,7 +64,10 @@ Collection-Grid: Teaserbilder als 1:1-Kachel mit Rahmen/Schatten, zentriert
 .teaser-contain .archive__item-teaser {
   height: auto; 
 }
-
+.archive__item-title no_toc,
+.archive__item-excerpt {
+    text-align: center;
+}
 
 /* Theme-Floats deaktivieren */
 .three-col .entries-grid .grid__item {

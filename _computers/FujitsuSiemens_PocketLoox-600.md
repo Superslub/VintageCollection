@@ -1,6 +1,6 @@
 ---
 title: "FSC Pocket Loox 600"
-excerpt: "Windows-PDA mit ARM-CPU von Intel (2005)"
+excerpt: "Windows-PDA mit Intel-ARM (2005)"
 manufacturer: "Fujitsu Siemens Computers (FSC)"
 year: 2005
 cpu_family: ARM
