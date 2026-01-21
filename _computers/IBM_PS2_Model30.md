@@ -58,7 +58,7 @@ gallery:
 |**Bemerkungen**| Gewicht ~8 kg, Tastatur mit Mikrotastern |
 |**Zustand**| funktioniert |
 
-IBM ist 1981 erst relativ spät in den aufkommenden Mikrocomputer-Markt ("Personal Computer"/ PC) eingestiegen, hat mit seinen Modellen "IBM PC" und "IBM PC/XT" aufgrund seiner Reputation im Groß- und Minicomputerbereich dennoch die wesentlichen späteren Standards setzen können. Der "IBM-kompatible PC" ist auch heute noch immer ein allgemein bekannter Begriff.
+IBM ist 1981 erst relativ spät in den aufkommenden Mikrocomputer-Markt ("Personal Computer"/ PC) eingestiegen, hat mit seinen Modellen "IBM PC" und "IBM PC/XT" aufgrund seiner Reputation im Groß- und Minicomputerbereich dennoch die wesentlichen späteren Standards setzen können. Der "IBM-kompatible PC" ist auch heute noch der verbreitetste PC-Standard.
 
 Für IBM war es jedoch sehr ungünstig, dass diese ersten Standards **offen** waren (wohl dem verspäteten Einstieg IBMs geschuldet) und deren Nutzung nicht an IBM lizenziert werden musste.
 Mitte/Ende der 1980-er Jahre versuchte IBM mit proprietären Standards den Markt wieder unter seine Kontrolle zu bekommen. Dazu brachte IBM bei den Personal Computern die PS/2-Reihe mit einigen technischen Neuerungen heraus:  
@@ -67,7 +67,7 @@ Mitte/Ende der 1980-er Jahre versuchte IBM mit proprietären Standards den Markt
 - VGA-Grafikstandard  
 - 72-polige RAM-SIMM-Module  
 - serielle Schnittstelle mit 16550 UART  
-- neue PS/2-Schnittstellen für Maus und Tastatur
+- PS/2-Schnittstellen für Maus und Tastatur
 - "High Density" 3,5-Zoll-Disketten mit 1,44 MB Speicherkapazität
 
 Die großen Hersteller IBM-kompatibler PCs dieser Zeit (allen voran Compaq) sahen allerdings nicht ein, weshalb sie künftig an IBM Lizenzzahlungen leisten sollten und führten für die meisten Neuerungen von IBM gemeinsam eigene, offene Standards ein (z.B. <a href="https://de.wikipedia.org/wiki/Extended_ISA" target="_blank" rel="noopener noreferrer">EISA</a>). Somit blieb die PS/2-Reihe der gescheiterte Versuch IBMs, den boomenden PC-Markt mit proprietären Technik-Standards für sich einzufangen.
