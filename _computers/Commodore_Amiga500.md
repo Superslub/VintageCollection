@@ -62,9 +62,9 @@ gallery:
 |**Zustand**| funktioniert, unverbastelt/keine Gehäusemodifikationen, bis auf Tastatur wenig Gilb |
 
 
-Amiga OS war 1985 das erste Betriebssystem für Heimanwender mit **präemptiven Multitasking** und kam zudem mit grafischer Oberfläche. Apple und Microsoft brauchten in dieser Geräteklasse für dieses echte Multitasking noch viele Jahre: Microsoft brachte mit Windows 95 erst 1995 ein entsprechendes OS für Heimanwender und User mit Apple-PCs mussten dafür noch bis 2001 (Mac OS X) warten.
+Das Betriebssystem AmigaOS war 1985 das erste Betriebssystem für Heimanwender mit **<a href="https://de.wikipedia.org/wiki/Multitasking#Pr%C3%A4emptives_Multitaskin" target="_blank" rel="noopener noreferrer">präemptiven Multitasking</a>** und kam zudem mit grafischer Oberfläche. Apple und Microsoft brauchten in der PC-Geräteklasse für dieses echte Multitasking noch viele Jahre: Microsoft brachte mit Windows 95 erst 1995 ein entsprechendes OS für Heimanwender und User mit Apple-PCs mussten dafür noch bis 2001 (Mac\u00A0OS\u00A0X) warten.
 
-Einen Nachteil hat der 68000er jedoch: Er bietet mit seiner linearen Speicherverwaltung ohne Zusatzhardware von Haus aus keinen Speicherschutz.
+Einen Nachteil hat der im Amiga verbaute 68000er jedoch: Er bietet mit seiner linearen Speicherverwaltung ohne Zusatzhardware von Haus aus keinen Speicherschutz.
 
 Grundsätzlich war der Amiga 500 ein auf Kostenreduktion getrimmter Rechner der 16/32-Bit-Klasse für den Heimgebrauch, der ohne eingebauten Massenspeicher (HDD) verkauft wurde. Auch die Videoausgabe war nicht bürotauglich. Dafür kam er mit allerlei "Spezialchips" für Grafik- und Soundeffekte, die in einer Zeit, da Intel-PCs mit CGA-Grafik und ohne Soundkarte auskommen mussten, wegweisend waren. Das daraus resultierende Image des "Spielecomputer-Herstellers" konnte Commodore im Nachgang nie wieder ablegen.
 

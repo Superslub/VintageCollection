@@ -1,6 +1,6 @@
 ---
 title: "Atari Portfolio"
-excerpt: "16-Bit Westentaschen-Computer (1989)"
+excerpt: "16-Bit Westentaschen-PC (1989)"
 manufacturer: "Atari Corporation"
 year: 1989
 cpu_family: i8088
