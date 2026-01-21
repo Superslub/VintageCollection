@@ -62,6 +62,18 @@ Collection-Grid: Teaserbilder als 1:1-Kachel mit Rahmen/Schatten, zentriert
   .three-col .entries-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
 }
 
+.teaser-square .archive__item-teaser {
+  padding: 0.25rem;      /* weniger Rand -> Bild größer */
+  aspect-ratio: 1 / 1;   /* bleibt Quadrat */
+}
+
+.teaser-square .archive__item-teaser img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+
 /* Theme-Floats deaktivieren */
 .three-col .entries-grid .grid__item {
   float: none;
