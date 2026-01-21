@@ -11,7 +11,7 @@ header:
   teaser: /assets/images/computers/Amstrad_PPC512/Amstrad_PPC512_02.jpg
   
 sidebar:
-  - title: "Links"
+  - title: "Informationen"
     image: "/assets/images/computers/Amstrad_PPC512/Amstrad_PPC512_13.jpg"
     image_alt: "Amstrad PPC 512"
     text: |
