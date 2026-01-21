@@ -70,11 +70,11 @@ gallery:
 
 |**Jahr**| 1987|
 |**CPU**| NEC V30 (μPD70116) @ 8 MHz (enhanced i8086)|
-|**RAM**| 512 KB|
+|**RAM**| 512 kB|
 |**Display**|640×200 LCD ohne Hintergrundbeleuchtung|
 |**Operating System**| MS DOS 3.3|
 |**Interfaces**| Seriell, Parallel, Video (MDA/CGA), 2x 8Bit-ISA-Bus ("Erweiterung A/B"), Monitoranschluß ...|
-|**Eigenschaften**| 2x 720KB-Floppylaufwerke, keine HDD, mobiler Betrieb mit 10 Type-C/R14-Zellen (nicht NiMH-kompatibel) möglich|
+|**Eigenschaften**| 2x 720 kB-Floppylaufwerke, keine HDD, mobiler Betrieb mit 10 TypeC/R14-Zellen möglich|
 |**Zustand**| funktioniert |
 |**Beerkungen**| DIP-Switches zur Einstellung der Videoausgabe (MDA/CGA, int.Display/ext.Monitor) |
 

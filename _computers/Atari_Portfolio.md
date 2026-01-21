@@ -58,7 +58,7 @@ gallery:
 
 |**Jahr**| 1989|
 |**CPU**| Intel 80C88 @ 4,9 MHz|
-|**RAM**| 128 KB|
+|**RAM**| 128 kB|
 |**Display**|240×64 Pixel (40×8 Zeichen) ohne Hintergrundbeleuchtung|
 |**Operating System**| DIP-DOS (MS-DOS 2.11) |
 |**Interfaces**| Erweiterungsport |
