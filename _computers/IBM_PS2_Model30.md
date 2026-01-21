@@ -15,11 +15,8 @@ sidebar:
     image: "/assets/images/computers/IBM_PS2_Model_30_286/IBM_PS2_Model_30_286_02.jpg"
     image_alt: "IBM PS/2 Model 30 286"
     text: |
-    https://de.wikipedia.org/wiki/IBM-PC-kompatibler_Computer
-    
       <a href="https://en.wikipedia.org/wiki/IBM_PS/2_Model_30" target="_blank" rel="noopener noreferrer">IBM PS/2 (Wikipedia en)</a>
-      <a href="https://de.wikipedia.org/wiki/IBM_5250" target="_blank" rel="noopener noreferrer">5250 Terminals (Wikipedia)</a>
-      
+      <a href="https://de.wikipedia.org/wiki/IBM-PC-kompatibler_Computer" target="_blank" rel="noopener noreferrer">"IBM PC-kompatibel" (Wikipedia)</a>
 
 gallery:
   - image_path: /assets/images/computers/IBM_PS2_Model_30_286/IBM_PS2_Model_30_286_03.jpg
@@ -57,7 +54,7 @@ gallery:
 |**Betriebssystem**| IBM PC DOS 3.3|
 |**Massenspeicher**| HDD 30 MB / 3600 U/min / RLL|
 |**Schnittstellen**| Seriell, Parallel, VGA-Monitoranschluß, PS/2-Anschlüsse für Tastatur/Maus|
-|**Eigenschaften**| 1,44 MB-Floppylaufwerk, VGA, 16550 UART, 72pin-SIMMs, 16Bit-ISA-Bus, Steckplatz für 80287-Coprozessor, 5250-Terminal-Emulatorkarte|
+|**Eigenschaften**| 1,44 MB-Floppylaufwerk, VGA, 16550 UART, 72pin-SIMMs, 16Bit-ISA-Bus, Steckplatz für 80287-Coprozessor, <a href="https://de.wikipedia.org/wiki/IBM_5250" target="_blank" rel="noopener noreferrer">5250 Terminal</a>-Emulatorkarte|
 |**Bemerkungen**| Gewicht ~8 kg, Tastatur mit Mikrotastern |
 |**Zustand**| funktioniert |
 
