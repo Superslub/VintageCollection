@@ -1,6 +1,6 @@
 ---
 title: "IBM Personal System/2 Model 30 286"
-excerpt: "IBMs Versuch, den PC zurückzugewinnen"
+excerpt: "IBMs Versuch, den PC zurückzugewinnen (1988)"
 manufacturer: "IBM"
 year: 1988
 cpu_family: i80286
