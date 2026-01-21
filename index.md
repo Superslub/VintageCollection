@@ -6,7 +6,7 @@ entries_layout: grid
 classes: wide teaser-contain teaser-square
 
 show_excerpts: false
-sort_by: date
-sort_order: reverse
+sort_by: order
+sort_order: forward
 ---
 
