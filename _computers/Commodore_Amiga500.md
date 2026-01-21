@@ -56,10 +56,10 @@ gallery:
 |**RAM**| 512 kB|
 |**Betriebssystem***| Amiga OS 1.3|
 |**Schnittstellen**| Audio, Display (RGB), Floppy, Parallel, Serial, 2xJoystick/Maus|
-|**Zustand**| funktioniert, unverbastelt/keine Gehäusemodifikationen, bis auf Tastatur wenig Gilb |
 |**Bemerkungen**| später 500er, schon mit Board vom 500+| 
 |**vorh. Zubehör**| externe Floppy, int. Speichererweiterung (512 kB) mit Echtzeituhr, Tank-Mouse, Video-Backup-System, SCART-Kabel | 
 |**Reparaturen**| interne Floppy ersetzt, SCART-Kabel repariert | 
+|**Zustand**| funktioniert, unverbastelt/keine Gehäusemodifikationen, bis auf Tastatur wenig Gilb |
 
 
 Amiga OS war 1985 das erste Betriebssystem für Heimanwender mit **präemptiven Multitasking** und kam zudem mit grafischer Oberfläche. Apple und Microsoft brauchten in dieser Geräteklasse für dieses echte Multitasking noch viele Jahre: Microsoft brachte mit Windows 95 erst 1995 ein entsprechendes OS für Heimanwender und User mit Apple-PCs mussten dafür noch bis 2001 (Mac OS X) warten.

@@ -5,7 +5,7 @@ manufacturer: "Atari Corporation"
 year: 1989
 cpu_family: i8088
 type: PDA
-order: 30
+order: 40
 
 header:
   teaser: /assets/images/computers/Atari_Portfolio/Atari_Portfolio_01.jpg
@@ -64,8 +64,8 @@ gallery:
 |**Schnittstellen**| Erweiterungsport |
 |**Energieversorung**| 3 x AA-Zelle |
 |**Eigenschaften**| Speicherkartenslot, eingebauter Lautsprecher |
-|**Zustand**| funktioniert |
 |**Bemerkungen**| Displaykabel bruchanfällig, Gelenk wurde am Gerät deshalb geringfügig modifiziert| 
+|**Zustand**| funktioniert |
 
 
 {% include gallery class="mm-gallery--letterbox" %}

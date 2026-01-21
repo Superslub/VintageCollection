@@ -5,7 +5,7 @@ manufacturer: "Psion Plc."
 year: 1999
 cpu_family: ARM
 type: PDA
-order: 40
+order: 50
 
 header:
   teaser: /assets/images/computers/Psion_Serie5_mx_PRO/Psion_Serie5mx_PRO_00.jpg
@@ -82,8 +82,8 @@ gallery:
 |**Schnittstellen**| PCMCIA-Karte, IrDA |
 |**Energieversorung**| 2 x AA-Zelle bei ~50 mA / 80 mA Verbrauch (mit/ohne Hintergrundbeleuchtung)|
 |**Eigenschaften**| WAP/Internetbrowser, Sprachnachrichtenrekorder, hintergrundbeleuchtetes Monochrom-LCD-Display (15 Grautöne) |
-|**Zustand**| funktioniert |
 |**Bemerkungen**| Stylus fehlt, hat Knopfzelle für Echtzeit-Uhr (CR2032) | 
+|**Zustand**| funktioniert |
 
 
 {% include gallery class="mm-gallery--letterbox" %}

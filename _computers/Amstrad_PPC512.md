@@ -74,9 +74,10 @@ gallery:
 |**Anzeige**|640×200 LCD ohne Hintergrundbeleuchtung|
 |**Betriebssystem***| MS DOS 3.3|
 |**Schnittstellen**| Seriell, Parallel, Video (MDA/CGA), 2x 8Bit-ISA-Bus ("Erweiterung A/B"), Monitoranschluß ...|
-|**Eigenschaften**| 2x 720 kB-Floppylaufwerke, keine HDD, mobiler Betrieb mit 10 TypeC/R14-Zellen möglich|
-|**Zustand**| funktioniert |
+|**Energieversorung**| 12V-Hohlstecker, mobiler Betrieb mit 10 TypeC/R14-Zellen möglich |
+|**Eigenschaften**| 2x 720 kB-Floppylaufwerke (DD), keine HDD |
 |**Bemerkungen**| DIP-Switches zur Einstellung der Videoausgabe (MDA/CGA, int.Display/ext.Monitor) |
+|**Zustand**| funktioniert |
 
 "Portable-PCs" sind der Vorläufer der heutigen Laptops und Notebooks. Der Fokus dieser tragbaren Geräte liegt auf ihrer Transportfähigkeit - meint: Man konnte den PC relativ leicht "irgendwo mit hinnehmen", z.B. zum Kunden. Dass das Gerät auch unterwegs zu benutzen, war eher als Bonus zu betrachten.
 

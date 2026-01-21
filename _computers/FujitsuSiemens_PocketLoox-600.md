@@ -5,7 +5,7 @@ manufacturer: "Fujitsu Siemens Computers (FSC)"
 year: 2005
 cpu_family: ARM
 type: PDA
-order: 50
+order: 60
 
 header:
   teaser: /assets/images/computers/FSC_Loox/FujitsuSiemens_PocketLoox-600_01.jpg
@@ -59,8 +59,8 @@ gallery:
 |**Schnittstellen**| IrDA, Bluetooth 1.1, Audio|
 |**Akku**| 1440 mAh LiPo |
 |**Eigenschaften**| Hardware On/Off-Schalter, Stylus, Cradle, Netzteil, PCMCIA-Slot (oben), es gab auch PCMCIA-Wifi-Karten |
-|**Zustand**| funktioniert, Abdeckung IrDA-Port fehlt |
 |**Bemerkungen**| zeittypischer Silberlack, MS Pocket PC 2002 verlangt nach jedem Neueinschalten ein kleines Tutorial und eine Kalibrierung des Touchscreens | 
+|**Zustand**| funktioniert, Abdeckung IrDA-Port fehlt |
 
 "Pocket PC" bezeichnet eine Mobilgeräteklasse, auf denen "Windows CE", bzw. "Windows Mobile" als Betriebssystem läuft. Diese Geräteklasse war dem Versuch Microsofts geschuldet, den damaligen PDA-Marktführer Palm anzugreifen. Die Pocket PCs waren (zurecht) ein Rohrkrepierer und wurden alsbald wieder beerdigt.
 

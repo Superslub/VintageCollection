@@ -1,11 +1,11 @@
 ---
 title: "IBM Personal System/2 Model 30 286"
-excerpt: "Ein 286er und doch kein AT (1988)"
-manufacturer: "Amstrad"
+excerpt: "Ein 286er der (eigentlich) kein AT sein sollte (1988)"
+manufacturer: "IBM"
 year: 1988
 cpu_family: i80286
 type: PC
-order: 50
+order: 30
 
 header:
   teaser: /assets/images/computers/IBM_PS2_Model_30_286/IBM_PS2_Model_30_286_01.jpg
@@ -15,6 +15,8 @@ sidebar:
     image: "/assets/images/computers/IBM_PS2_Model_30_286/IBM_PS2_Model_30_286_02.jpg"
     image_alt: "IBM PS/2 Model 30 286"
     text: |
+    https://de.wikipedia.org/wiki/IBM-PC-kompatibler_Computer
+    
       <a href="https://en.wikipedia.org/wiki/IBM_PS/2_Model_30" target="_blank" rel="noopener noreferrer">IBM PS/2 (Wikipedia en)</a>
       <a href="https://de.wikipedia.org/wiki/IBM_5250" target="_blank" rel="noopener noreferrer">5250 Terminals (Wikipedia)</a>
       
@@ -50,12 +52,31 @@ gallery:
 
 ---
 
-|**Modell-/Baujahr**| 1987 / 1990|
+|**Modell-/Baujahr**| 1988 / 1990|
 |**CPU**| i80286 @ 10 MHz|
 |**Betriebssystem**| IBM PC DOS 3.3|
+|**Massenspeicher**| HDD 30 MB / 3600 U/min / RLL|
 |**Schnittstellen**| Seriell, Parallel, VGA-Monitoranschluß, PS/2-Anschlüsse für Tastatur/Maus|
-|**Eigenschaften**| 1,44 MB-Floppylaufwerk, VGA, 16Bit-ISA-Bus, Steckplatz für Coprozessor|
+|**Eigenschaften**| 1,44 MB-Floppylaufwerk, VGA, 16550 UART, 72pin-SIMMs, 16Bit-ISA-Bus, Steckplatz für 80287-Coprozessor, 5250-Terminal-Emulatorkarte|
+|**Bemerkungen**| Gewicht ~8 kg, Tastatur mit Mikrotastern |
 |**Zustand**| funktioniert |
-|**Bemerkungen**| 5250-Terminal-Emulatorkarte |
+
+IBM ist 1981 erst realtiv spät in den aufkommenden Mikrocomputer-Markt ("Personal Computer"/ PC) eingestiegen, hat mit seinen Modellen "IBM PC" und "IBM PC/XT" aufgrund seiner Reputation im Groß- und Minicomputerbereich dennoch die wesentlichen späteren Standards setzen können. Der "IBM-kompatible PC" ist auch heute noch immer ein allgemein bekannter Begriff.
+
+Für IBM war es jedoch sehr ungünstig, dass diese ersten Standards **offen** waren (wohl dem verspäteten Einstieg IBMs geschuldet) und deren Nutzung nicht an IBM lizenziert werden musste.
+Mitte/Ende der 1980-er Jahre versuchte IBM mit proprietären Standards den Markt wieder unter seine Kontrolle zu bekommen. Dazu brachte IBM bei den Personal Computern die PS/2-Reihe mit einigen technischen Neuerungen heraus:  
+- Microchannel-Bussystem  
+- neue BIOS-Technologie
+- VGA-Grafikstandard  
+- 72-polige RAM-SIMM-Module  
+- serielle Schnittstelle mit 16550 UART  
+- neue PS/2-Schnittstellen für Maus und Tastatur
+- "High Density" 3,5-Zoll-Disketten mit 1,44 MB Speicherkapazität
+
+Die großen Hersteller IBM-kompatibler PCs dieser Zeit (allen voran Compaq) sahen allerdings nicht ein, weshalb sie künftig an IBM Lizenzzahlungen leisten sollten und führten für die meisten Neuerungen von IBM gemeinsam eigene, offene Standards ein (z.B. <a href="https://de.wikipedia.org/wiki/Extended_ISA" target="_blank" rel="noopener noreferrer">EISA</a>). Somit blieb die PS/2-Reihe der gescheiterte Versuch IBMs, den boomenden PC-Markt mit proprietären Technik-Standards für sich einzufangen.
+
+Einige technischen Neuerungen der PS/2-Reihe fanden trotzdem später ihren Weg in den freien PC-Markt: VGA, PS/2-Maus- und -Tastauranschluß, SIMM-Speichermodule, serielle Ports mit 16550 und das HD-Floppyformat hatten später die allermeisten PCs.
+
+Das obige "Model 30" war am unteren Ende der IBM-PS/2-Modellreihe angesiedelt und stellt einen seltsamen Kompromiss IBMs dar: Obwohl ein PS/2-System, kam es bspw. mit offenem 16-Bit-ISA-Bus (statt Microchannel) - man kann also "normale" ISA-Karten im System nutzen. Es ist trotzdem einer der ersten PC-Modelle mit PS/2-Anschlüssen, VGA-Grafik, SIMM-Modulen und 1,44 MB-HD-Floppydrive.
 
 {% include gallery class="mm-gallery--letterbox" %}
