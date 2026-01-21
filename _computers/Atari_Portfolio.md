@@ -11,10 +11,10 @@ header:
   teaser: /assets/images/computers/Atari_Portfolio/Atari_Portfolio_01.jpg
 
 sidebar:
-  - title: "Portfolio"
+  - title: "Links"
     image: "/assets/images/computers/Atari_Portfolio/Atari_Portfolio_00.jpg"
     text: |
-      [Wikipedia](https://de.wikipedia.org/wiki/Atari_Portfolio)
+      <a href="https://de.wikipedia.org/wiki/Atari_Portfolio" target="_blank" rel="noopener noreferrer">Wikipedia</a><br>
 
 gallery:
   - image_path: /assets/images/computers/Atari_Portfolio/Atari_Portfolio_01.jpg

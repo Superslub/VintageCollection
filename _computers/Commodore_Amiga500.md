@@ -11,7 +11,7 @@ header:
   teaser: /assets/images/computers/Commodore_A500/Commodore_Amiga500_all1.jpg
 
 sidebar:
-  - title: "Amiga 500"
+  - title: "Links"
     image: "/assets/images/computers/Commodore_A500/Commodore_Amiga500_detail1.jpg"
     image_alt: "Amiga 500"
     text: |

@@ -11,7 +11,7 @@ header:
   teaser: /assets/images/computers/Psion_Serie5_mx_PRO/Psion_Serie5mx_PRO_00.jpg
 
 sidebar:
-  - title: "Serie 5m PRO"
+  - title: "Links"
     image: "/assets/images/computers/Psion_Serie5_mx_PRO/Psion_Serie5mx_PRO_01.jpg"
     text: | 
       <a href="https://de.wikipedia.org/wiki/Psion#Psion_Serie_5mx" target="_blank" rel="noopener noreferrer">PSION Serie 5</a><br>
@@ -77,13 +77,13 @@ gallery:
 |**Jahr**| 1999|
 |**CPU**| ARM 710T @ 37 MHz|
 |**RAM**| 32 MB|
-|**Display**|640×240 Pixel mit zuschaltbarer Hintergrundbeleuchtung|
+|**Display**|640×240 Pixel|
 |**Operating System**| EPOC Release 5 |
 |**Interfaces**| PCMCIA-Karte, IrDA |
 |**Energieversorung**| 2 x AA-Zelle bei ~50 mA / 80 mA Verbrauch (mit/ohne Hintergrundbeleuchtung)|
-|**Eigenschaften**| Speicherkartenslot, eingebauter Lautsprecher |
+|**Eigenschaften**| WAP/Internetbrowser, Sprachnachrichtenrekorder, hintergrundbeleuchtetes Monochrom-LCD-Display (15 Grautöne) |
 |**Zustand**| funktioniert |
-|**Bemerkungen**| Stylus fehlt | 
+|**Bemerkungen**| Stylus fehlt, hat Knopfzelle für Echtzeit-Uhr (CR2032) | 
 
 
 {% include gallery class="mm-gallery--letterbox" %}
