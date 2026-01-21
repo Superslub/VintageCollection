@@ -15,7 +15,7 @@ sidebar:
     image: "/assets/images/computers/IBM_PS2_Model_30_286/IBM_PS2_Model_30_286_02.jpg"
     image_alt: "IBM PS/2 Model 30 286"
     text: |
-      <a href="https://en.wikipedia.org/wiki/IBM_PS/2_Model_30" target="_blank" rel="noopener noreferrer">IBM PS/2 (Wikipedia en)</a>
+      <a href="https://en.wikipedia.org/wiki/IBM_PS/2_Model_30" target="_blank" rel="noopener noreferrer">IBM PS/2 (Wikipedia en)</a><br>
       <a href="https://de.wikipedia.org/wiki/IBM-PC-kompatibler_Computer" target="_blank" rel="noopener noreferrer">"IBM PC-kompatibel" (Wikipedia)</a>
 
 gallery:
@@ -58,7 +58,7 @@ gallery:
 |**Bemerkungen**| Gewicht ~8 kg, Tastatur mit Mikrotastern |
 |**Zustand**| funktioniert |
 
-IBM ist 1981 erst realtiv spät in den aufkommenden Mikrocomputer-Markt ("Personal Computer"/ PC) eingestiegen, hat mit seinen Modellen "IBM PC" und "IBM PC/XT" aufgrund seiner Reputation im Groß- und Minicomputerbereich dennoch die wesentlichen späteren Standards setzen können. Der "IBM-kompatible PC" ist auch heute noch immer ein allgemein bekannter Begriff.
+IBM ist 1981 erst relativ spät in den aufkommenden Mikrocomputer-Markt ("Personal Computer"/ PC) eingestiegen, hat mit seinen Modellen "IBM PC" und "IBM PC/XT" aufgrund seiner Reputation im Groß- und Minicomputerbereich dennoch die wesentlichen späteren Standards setzen können. Der "IBM-kompatible PC" ist auch heute noch immer ein allgemein bekannter Begriff.
 
 Für IBM war es jedoch sehr ungünstig, dass diese ersten Standards **offen** waren (wohl dem verspäteten Einstieg IBMs geschuldet) und deren Nutzung nicht an IBM lizenziert werden musste.
 Mitte/Ende der 1980-er Jahre versuchte IBM mit proprietären Standards den Markt wieder unter seine Kontrolle zu bekommen. Dazu brachte IBM bei den Personal Computern die PS/2-Reihe mit einigen technischen Neuerungen heraus:  
