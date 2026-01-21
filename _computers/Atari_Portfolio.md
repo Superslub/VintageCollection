@@ -64,7 +64,7 @@ gallery:
 |**Schnittstellen**| Erweiterungsport |
 |**Energieversorung**| 3 x AA-Zelle |
 |**Eigenschaften**| Speicherkartenslot, eingebauter Lautsprecher |
-|**Bemerkungen**| Displaykabel bruchanfällig, Gelenk wurde am Gerät deshalb geringfügig modifiziert| 
+|**Bemerkungen**| Displaykabel bruchanfällig, Gelenk wurde deshalb geringfügig modifiziert| 
 |**Zustand**| funktioniert |
 
 Der Atari Portfolio ist ein <a href="https://de.wikipedia.org/wiki/IBM-PC-kompatibler_Computer" target="_blank" rel="noopener noreferrer">"IBM PC-kompatibler Rechner"</a> im Westentaschenformat. Man muss sich dabei vor Augen halten, dass zwischen dem Erscheinen des <a href="https://de.wikipedia.org/wiki/IBM_Personal_Computer" target="_blank" rel="noopener noreferrer">ersten IBM-PC</a> und dem Marktstart des Portfolio gerade einmal 8 Jahre lagen.

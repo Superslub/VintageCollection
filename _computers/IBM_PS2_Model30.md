@@ -72,7 +72,7 @@ Mitte/Ende der 1980-er Jahre versuchte IBM mit proprietären Standards den Markt
 
 Die großen Hersteller IBM-kompatibler PCs dieser Zeit (allen voran Compaq) sahen allerdings nicht ein, weshalb sie künftig an IBM Lizenzzahlungen leisten sollten und führten für die meisten Neuerungen von IBM gemeinsam eigene, offene Standards ein (z.B. <a href="https://de.wikipedia.org/wiki/Extended_ISA" target="_blank" rel="noopener noreferrer">EISA</a>). Somit blieb die PS/2-Reihe der gescheiterte Versuch IBMs, den boomenden PC-Markt mit proprietären Technik-Standards für sich einzufangen.
 
-Einige technischen Neuerungen der PS/2-Reihe fanden trotzdem später ihren Weg in den freien PC-Markt: VGA, PS/2-Maus- und -Tastauranschluß, SIMM-Speichermodule, serielle Ports mit 16550 und das HD-Floppyformat hatten später die allermeisten PCs.
+Einige technischen Neuerungen der PS/2-Reihe fanden trotzdem später ihren Weg in den freien PC-Markt: VGA, PS/2-Maus- und -Tastauranschluß, SIMM-Speichermodule, serielle Ports mit 16550-UART und das HD-Floppyformat hatten später die allermeisten PCs.
 
 Das obige "Model 30" war am unteren Ende der IBM-PS/2-Modellreihe angesiedelt und stellt einen seltsamen Kompromiss IBMs dar: Obwohl ein PS/2-System, kam es bspw. mit offenem 16-Bit-ISA-Bus (statt Microchannel) - man kann also "normale" ISA-Karten im System nutzen. Es ist trotzdem einer der ersten PC-Modelle mit PS/2-Anschlüssen, VGA-Grafik, SIMM-Modulen und 1,44 MB-HD-Floppydrive.
 
