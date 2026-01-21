@@ -1,6 +1,6 @@
 ---
 title: "IBM Personal System/2 Model 30 286"
-excerpt: "Ein 286er der (eigentlich) kein AT sein sollte (1988)"
+excerpt: "IBMs Versuch, den PC zurückzugewinnen"
 manufacturer: "IBM"
 year: 1988
 cpu_family: i80286
