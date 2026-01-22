@@ -12,13 +12,11 @@ header:
 
 sidebar:
   - title: "Informationen"
-    image: "/assets/images/computers/NeoGeo_Pocket_Color/NeoGeo_Pocket_Color_01.jpg"
+    image: "/assets/images/computers/NeoGeo_Pocket_Color/NeoGeo_Pocket_Color_02.jpg"
     text: |    
       <a href="https://de.wikipedia.org/wiki/Neo_Geo_Pocket_Color" target="_blank" rel="noopener noreferrer">Wikipedia</a><br>
 
 gallery:
-  - image_path: /assets/images/computers/NeoGeo_Pocket_Color/NeoGeo_Pocket_Color_02.jpg
-    url: /assets/images/computers/NeoGeo_Pocket_Color/NeoGeo_Pocket_Color_02.jpg
   - image_path: /assets/images/computers/NeoGeo_Pocket_Color/NeoGeo_Pocket_Color_03.jpg
     url: /assets/images/computers/NeoGeo_Pocket_Color/NeoGeo_Pocket_Color_03.jpg
   - image_path: /assets/images/computers/NeoGeo_Pocket_Color/NeoGeo_Pocket_Color_04.jpg
@@ -31,6 +29,8 @@ gallery:
     url: /assets/images/computers/NeoGeo_Pocket_Color/NeoGeo_Pocket_Color_07.jpg
   - image_path: /assets/images/computers/NeoGeo_Pocket_Color/NeoGeo_Pocket_Color_08.jpg
     url: /assets/images/computers/NeoGeo_Pocket_Color/NeoGeo_Pocket_Color_08.jpg
+  - image_path: /assets/images/computers/NeoGeo_Pocket_Color/NeoGeo_Pocket_Color_01.jpg
+    url: /assets/images/computers/NeoGeo_Pocket_Color/NeoGeo_Pocket_Color_02.jpg
   - image_path: /assets/images/computers/NeoGeo_Pocket_Color/NeoGeo_Pocket_Color_10.jpg
     url: /assets/images/computers/NeoGeo_Pocket_Color/NeoGeo_Pocket_Color_10.jpg
   - image_path: /assets/images/computers/NeoGeo_Pocket_Color/NeoGeo_Pocket_Color_11.jpg
