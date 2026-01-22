@@ -23,14 +23,14 @@ gallery:
     url: /assets/images/computers/NeoGeo_Pocket_Color/NeoGeo_Pocket_Color_04.jpg
   - image_path: /assets/images/computers/NeoGeo_Pocket_Color/NeoGeo_Pocket_Color_05.jpg
     url: /assets/images/computers/NeoGeo_Pocket_Color/NeoGeo_Pocket_Color_05.jpg
+  - image_path: /assets/images/computers/NeoGeo_Pocket_Color/NeoGeo_Pocket_Color_08.jpg
+    url: /assets/images/computers/NeoGeo_Pocket_Color/NeoGeo_Pocket_Color_08.jpg
+  - image_path: /assets/images/computers/NeoGeo_Pocket_Color/NeoGeo_Pocket_Color_01.jpg
+    url: /assets/images/computers/NeoGeo_Pocket_Color/NeoGeo_Pocket_Color_01.jpg
   - image_path: /assets/images/computers/NeoGeo_Pocket_Color/NeoGeo_Pocket_Color_06.jpg
     url: /assets/images/computers/NeoGeo_Pocket_Color/NeoGeo_Pocket_Color_06.jpg
   - image_path: /assets/images/computers/NeoGeo_Pocket_Color/NeoGeo_Pocket_Color_07.jpg
     url: /assets/images/computers/NeoGeo_Pocket_Color/NeoGeo_Pocket_Color_07.jpg
-  - image_path: /assets/images/computers/NeoGeo_Pocket_Color/NeoGeo_Pocket_Color_08.jpg
-    url: /assets/images/computers/NeoGeo_Pocket_Color/NeoGeo_Pocket_Color_08.jpg
-  - image_path: /assets/images/computers/NeoGeo_Pocket_Color/NeoGeo_Pocket_Color_01.jpg
-    url: /assets/images/computers/NeoGeo_Pocket_Color/NeoGeo_Pocket_Color_02.jpg
   - image_path: /assets/images/computers/NeoGeo_Pocket_Color/NeoGeo_Pocket_Color_10.jpg
     url: /assets/images/computers/NeoGeo_Pocket_Color/NeoGeo_Pocket_Color_10.jpg
   - image_path: /assets/images/computers/NeoGeo_Pocket_Color/NeoGeo_Pocket_Color_11.jpg
