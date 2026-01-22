@@ -12,7 +12,7 @@ header:
 
 sidebar:
   - title: "Informationen"
-    image: "/assets/images/computers/NeoGeo_Pocket_Color/NeoGeo_Pocket_Color/NeoGeo_Pocket_Color_01.jpg"
+    image: "/assets/images/computers/NeoGeo_Pocket_Color/NeoGeo_Pocket_Color_01.jpg"
     text: |    
       <a href="https://de.wikipedia.org/wiki/Neo_Geo_Pocket_Color" target="_blank" rel="noopener noreferrer">Wikipedia</a><br>
 
