@@ -69,11 +69,11 @@ gallery:
 ---
 
 |**Jahr**| 1987|
-|**CPU**| NEC V30 (μPD70116) @ 8 MHz (enhanced i8086)|
+|**CPU**| <a href="https://de.wikipedia.org/wiki/NEC_V20" target="_blank" rel="noopener noreferrer">NEC V30 (μPD70116)</a> @ 8 MHz (enhanced i8086)|
 |**RAM**| 512 kB|
 |**Anzeige**|640×200 LCD ohne Hintergrundbeleuchtung|
 |**Betriebssystem***| MS DOS 3.3|
-|**Schnittstellen**| Seriell, Parallel, Video (MDA/CGA), 2x 8Bit-ISA-Bus ("Erweiterung A/B"), Monitoranschluß ...|
+|**Schnittstellen**| Seriell, Parallel, Video (MDA/CGA), 2x 8Bit-ISA-Bus ("Erweiterung A/B"), Monitoranschluss ...|
 |**Energieversorung**| 12V-Hohlstecker, mobiler Betrieb mit 10 TypeC/R14-Zellen möglich |
 |**Eigenschaften**| 2x 720 kB-Floppylaufwerke (DD), keine HDD |
 |**Bemerkungen**| DIP-Switches zur Einstellung der Videoausgabe (MDA/CGA, int.Display/ext.Monitor) |
@@ -81,7 +81,7 @@ gallery:
 
 "Portable-PCs" sind der Vorläufer der heutigen Laptops und Notebooks. Der Fokus dieser tragbaren Geräte liegt auf ihrer Transportfähigkeit - meint: Man konnte den PC relativ leicht "irgendwo mit hinnehmen", z.B. zum Kunden. Dass das Amstrad-Gerät auch unterwegs benutzt werden konnte, war eher als Bonus zu betrachten.
 
-Der PPC512 war als günstiges Gerät im Markt platziert und stach vor allem durch seine Tragbarkeit hervor. Die technische Ausstattung war eher einfach: Zum Zeitpunkt der Markeinführung hatten sich PCs mit i80286-Prozessoren und Festplatte bereits durchgesetzt (IBM PC/AT) und der sich ebenfalls auf die i8086-CPU stützende IBM Portable PC (auch PC/XT-kompatibel) war schon drei Jahre im Verkauf.
+Der PPC512 war als günstiges Gerät im Markt platziert und stach vor allem durch seine Tragbarkeit hervor. Die technische Ausstattung war eher einfach: Zum Zeitpunkt der Markeinführung hatten sich PCs mit i80286-Prozessoren und Festplatte bereits durchgesetzt (IBM PC/AT) und der sich ebenfalls auf die i8086-CPU stützende <a href="https://de.wikipedia.org/wiki/IBM_Portable_Personal_ComputerIBM" target="_blank" rel="noopener noreferrer">IBM Portable PC</a> (auch PC/XT-kompatibel) war schon drei Jahre im Verkauf.
 
 Immerhin besaß der PPC mit der exotischen NEC V30-CPU einen verbesserten i8086-Prozessor, der mit 8 MHz zudem auch relativ schnell getaktet war (Standard-XT: 4,77 MHz). Auch waren die verbauten 512 kB RAM nahe an der maximalen Ausbaustufe für XT-Rechner (640kB). Eine weitere Besonderheit des Rechners stellt das verbaute TFT-Display dar. Damit gehört der Rechner zu einem der ersten Modelle überhaupt, die einen solchen Bildschirm besaßen. Das leichtgewichtige Display trägt enorm zur Tragbarkeit des Rechners bei. Allerdings geht das auch auf Kosten der Ergonomie bei der eigentlichen Benutzung: Im Vergleich zu einem Röhrenbildschirm bietet das Bild wenig Kontrast und ist nicht nur träge, sondern auch sehr blickwinkelabhängig. Im Dunkeln ist das Display gar nicht nutzbar - diese ersten LCDs verfügten über keine Hintergrundbeleuchtung.
 
