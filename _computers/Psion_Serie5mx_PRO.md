@@ -80,7 +80,7 @@ gallery:
 |**Anzeige**|640×240 Pixel|
 |**Betriebssystem***| EPOC Release 5 |
 |**Schnittstellen**| PCMCIA-Karte, IrDA |
-|**Energieversorung**| 2 x AA-Zelle bei ~50 mA / 80 mA Verbrauch (mit/ohne Hintergrundbeleuchtung)|
+|**Energieversorung**| 2 x AA-Zellen bei ~50 mA / 80 mA Verbrauch (mit/ohne Hintergrundbeleuchtung)|
 |**Eigenschaften**| WAP/Internetbrowser, Sprachnachrichtenrekorder, hintergrundbeleuchtetes Monochrom-LCD-Display (15 Grautöne) |
 |**Bemerkungen**| Stylus fehlt, hat Knopfzelle für Echtzeit-Uhr (CR2032) | 
 |**Zustand**| funktioniert |
