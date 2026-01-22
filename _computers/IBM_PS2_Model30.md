@@ -74,6 +74,6 @@ Die großen Hersteller IBM-kompatibler PCs dieser Zeit (allen voran Compaq) sahe
 
 Einige technischen Neuerungen der PS/2-Reihe fanden trotzdem später ihren Weg in den freien PC-Markt: VGA, PS/2-Maus- und -Tastaturanschluss, SIMM-Speichermodule, serielle Ports mit 16550-UART und das HD-Floppyformat hatten später die allermeisten PCs.
 
-Das "Model 30" war am unteren Ende der IBM-PS/2-Modellreihe angesiedelt und stellt einen seltsamen Kompromiss IBMs dar: Obwohl ein PS/2-System, kam es bspw. mit offenem 16-Bit-ISA-Bus (statt Microchannel) - man kann also "normale" ISA-Karten im System nutzen. Es ist trotzdem einer der ersten PC-Modelle mit PS/2-Anschlüssen, VGA-Grafik, SIMM-Modulen und 1,44 MB-HD-Floppydrive.
+Das "Model 30" war am unteren Ende der IBM-PS/2-Modellreihe angesiedelt und stellt einen seltsamen Kompromiss IBMs dar: Obwohl ein PS/2-System, kam es bspw. mit offenem 16-Bit-ISA-Bus (statt Microchannel) - man kann also "normale" ISA-Karten im System nutzen. Es ist trotzdem einer der ersten PC-Modelle mit PS/2-Anschlüssen, VGA-Grafik, 72-poligen SIMM-Modulen und 1,44 MB-HD-Floppydrive.
 
 {% include gallery class="mm-gallery--letterbox" %}
