@@ -55,11 +55,9 @@ gallery:
 
 |**Jahr**| 1999|
 |**CPU**| 16/32-Bit <a href="https://en.wikipedia.org/wiki/Toshiba_TLCS#TLCS-900_family" target="_blank" rel="noopener noreferrer">TOSHIBA TLCS-900/H-Core</a> @ 6,1 MHz + 8-Bit Z80 @ 3 MHz (Sound)|
-|**RAM**| 128 kB|
 |**Anzeige**| 2,6 Zoll - 160×152 Pixel ohne Hintergrundbeleuchtung|
-|**Betriebssystem**| DIP-DOS (MS-DOS 2.11) |
 |**Energieversorung**| 2 x AA-Zelle (für 40 Stunden Spielzeit)|
-|**Grafik**| 146 von 4096 Farben, 512 8×8-Pixel-Sprites (3 Farben + Transparenz) |
+|**Grafik**| 146 aus 4096 Farben, 512 8×8-Pixel-Sprites (3 Farben + Transparenz) |
 |**Sound**| 3-Kanäle Rechteck + 1 Kanal Rauschen 1ch + 2 Kanäle DAC (Samples) |
 |**Bemerkungen**| Anschluss für Kommunikationskabel, Knopfzelle (CR2032)| 
 |**Zustand**| funktioniert |
