@@ -33,9 +33,9 @@ gallery:
     url: /assets/images/computers/Nintendo_Game_Boybocket/Nintendo_Gameboy_Pocket_09.jpg
   - image_path: /assets/images/computers/Nintendo_Gameboy_Pocket/Nintendo_Gameboy_Pocket_10.jpg
     url: /assets/images/computers/Nintendo_Game_Boybocket/Nintendo_Gameboy_Pocket_10.jpg
-  - image_path: /assets/images/computers/Nintendo_Gameboy_Pocket/Nintendo_Gameboy_Pocket_11.jpg
-    url: /assets/images/computers/Nintendo_Game_Boybocket/Nintendo_Gameboy_Pocket_11.jpg
   - image_path: /assets/images/computers/Nintendo_Gameboy_Pocket/Nintendo_Gameboy_Pocket_12.jpg
+    url: /assets/images/computers/Nintendo_Game_Boybocket/Nintendo_Gameboy_Pocket_11.jpg
+  - image_path: /assets/images/computers/Nintendo_Gameboy_Pocket/Nintendo_Gameboy_Pocket_11.jpg
     url: /assets/images/computers/Nintendo_Game_Boybocket/Nintendo_Gameboy_Pocket_12.jpg
   
   
