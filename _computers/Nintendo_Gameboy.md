@@ -27,10 +27,7 @@ gallery:
     url: /assets/images/computers/Nintendo_Gameboy/Nintendo_Gameboy_09.jpg
   - image_path: /assets/images/computers/Nintendo_Gameboy/Nintendo_Gameboy_10.jpg
     url: /assets/images/computers/Nintendo_Gameboy/Nintendo_Gameboy_10.jpg
-  - image_path: /assets/images/computers/Nintendo_Gameboy/Nintendo_Gameboy_11.jpg
-    url: /assets/images/computers/Nintendo_Gameboy/Nintendo_Gameboy_11.jpg
-  - image_path: /assets/images/computers/Nintendo_Gameboy/Nintendo_Gameboy_12.jpg
-    url: /assets/images/computers/Nintendo_Gameboy/Nintendo_Gameboy_12.jpg
+  
   
   
 ---
