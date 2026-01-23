@@ -68,6 +68,6 @@ Die verbaute XScale-CPU war Teil des Versuchs Intels, mit ARM-Cores im Mobile- u
 
 Der Loox vereint damit drei teure, aber nicht zu rettende Unternehmungen in sich: Siemens Versuch, noch etwas in der Consumer-PC-Sparte zu erreichen und die kläglichen Attacken der Giganten Intel und Microsoft, die auf den wachsenden  Mobile-Markt zielten.
 
-Das Gerät an sich (Loox) ist von guter Qualität, wenn auch die Dockingstation etwas knarzig daherkommt.
+Der Loox ist an sich von guter Qualität, wenn auch die Dockingstation etwas knarzig daherkommt.
 
 {% include gallery class="mm-gallery--letterbox" %}
