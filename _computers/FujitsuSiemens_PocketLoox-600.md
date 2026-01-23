@@ -62,11 +62,11 @@ gallery:
 |**Bemerkungen**| zeittypischer Silberlack, MS Pocket PC 2002 verlangt nach jedem Neueinschalten ein kleines Tutorial und eine Kalibrierung des Touchscreens | 
 |**Zustand**| funktioniert, Abdeckung IrDA-Port fehlt |
 
-"Pocket PC" bezeichnet eine Mobilgeräteklasse, auf denen "Windows CE", bzw. "Windows Mobile" als Betriebssystem läuft. Diese Geräteklasse war dem Versuch Microsofts geschuldet, den damaligen PDA-Marktführer Palm anzugreifen. Die Pocket PCs waren wenig erfolgreich und wurden alsbald wieder beerdigt.
+"Pocket PC" bezeichnet eine Mobilgeräteklasse, auf denen "Windows CE", bzw. "Windows Mobile" als Betriebssystem läuft. Diese Geräteklasse war dem Versuch Microsofts geschuldet, den damaligen PDA-Marktführer Palm anzugreifen. Die Pocket PCs waren letztlich aber wenig erfolgreich und wurden alsbald wieder beerdigt.
 
 Die verbaute XScale-CPU war Teil des Versuchs Intels, mit ARM-Cores im Mobile- und Embedded-Segment Fuß zu fassen. Das Experiment währte nur vier Jahre und wurde schon 2006 wieder eingestellt.
 
-Der Loox vereint damit drei teure, aber nicht zu rettende Unternehmungen in sich: Siemens Versuch, noch etwas in der Consumer-PC-Sparte zu erreichen und die kläglichen Attacken der Giganten Intel und Microsoft, die auf den wachsenden  Mobile-Markt zielten.
+Der Loox vereint damit drei teure, aber nicht zu rettende Unternehmungen in sich: Siemens Versuch, noch etwas in der Consumer-PC-Sparte zu erreichen und die gescheiterten Attacken der Giganten Intel und Microsoft auf den wachsenden Mobile-Markt.
 
 Der Loox ist an sich von guter Qualität, wenn auch die Dockingstation etwas knarzig daherkommt.
 
