@@ -5,7 +5,7 @@ manufacturer: "Nintendo"
 year: 1996
 cpu_family: Z80
 type: Handheld
-order: 90
+order: 80
 
 header:
   teaser: /assets/images/computers/Nintendo_Gameboy/Nintendo_Gameboy_01.jpg
@@ -41,9 +41,9 @@ gallery:
 |**Bemerkungen**| Anschluss für Kommunikationskabel, Kopfhöreranschluß, Batterieanzeige | 
 |**Zustand**| funktioniert |
 
-Als der Game Boy 1989 auf den Markt kam, war die verbaute Technik schon etwas "altbacken": Die 8-Bit-CPU und das träge und kontrastschwache STN-TFT-Display war der Konkurrenz unterlegen. Dafür kostete das Nintendo-Gerät nur 169 DM und kam inklusive dem beliebten Tetris.
+Als der Game Boy 1989 auf den Markt kam, war die verbaute Technik für die Zeit schon etwas "altbacken": Die 8-Bit-CPU und das träge und kontrastschwache STN-TFT-Display waren der Konkurrenz unterlegen. Dafür kostete das Nintendo-Gerät nur 169 DM und kam inklusive dem beliebten Tetris.
 
-In der Sammlung ist der Game Boy das wohl am meisten genutzte Gerät. Es hatte mehrere junge Vorbesitzer und hat - nicht nur einmal - "den Strand erlebt". Die Displayabdeckung wird von Tesa-Film am Gehäuse gehalten und das Steuerkreuz zeigt erste Abnutzungserscheinungen. Trotz allem funktioniert der robuste Handheld noch immer tadellos.
+In der Sammlung ist der robuste Ur-Gameboy das wohl am meisten genutzte Gerät. Es hatte mehrere junge Vorbesitzer und hat - nicht nur einmal - "den Strand erlebt". Die Displayabdeckung wird von Tesa-Film am Gehäuse gehalten und das Steuerkreuz zeigt erste Abnutzungserscheinungen. Trotz allem funktioniert der Handheld noch immer tadellos.
 
 
 {% include gallery class="mm-gallery--letterbox" %}

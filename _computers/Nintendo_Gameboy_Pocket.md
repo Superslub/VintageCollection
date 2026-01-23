@@ -2,7 +2,7 @@
 title: "Nintendo Game Boy Pocket"
 excerpt: "Facelift des Klassikers"
 manufacturer: "Nintendo"
-year: 1996
+year: 1989
 cpu_family: Z80
 type: Handheld
 order: 90
@@ -41,7 +41,7 @@ gallery:
   
 ---
 
-|**Jahr**| 1996|
+|**Jahr**| 1989|
 |**System**| 8-Bit-CPU (LR35902, ähnlich Z80) @ 4 MHz, 8kB RAM + 8kB Grafikspeicher|
 |**Anzeige**| 160×144 Pixel (ohne Hintergrundbeleuchtung)|
 |**Energieversorung**| 2 x AAA-Zelle (für etwa 10 Stunden Spielzeit)|
