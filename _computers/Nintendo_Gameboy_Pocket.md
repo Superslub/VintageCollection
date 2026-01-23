@@ -18,25 +18,25 @@ sidebar:
 
 gallery:
   - image_path: /assets/images/computers/Nintendo_Gameboy_Pocket/Nintendo_Gameboy_Pocket_03.jpg
-    url: /assets/images/computers/Nintendo_Game_Boybocket/Nintendo_Gameboy_Pocket_03.jpg
+    url: /assets/images/computers/Nintendo_Gameboy_Pocket/Nintendo_Gameboy_Pocket_03.jpg
   - image_path: /assets/images/computers/Nintendo_Gameboy_Pocket/Nintendo_Gameboy_Pocket_04.jpg
-    url: /assets/images/computers/Nintendo_Game_Boybocket/Nintendo_Gameboy_Pocket_04.jpg
+    url: /assets/images/computers/Nintendo_Gameboy_Pocket/Nintendo_Gameboy_Pocket_04.jpg
   - image_path: /assets/images/computers/Nintendo_Gameboy_Pocket/Nintendo_Gameboy_Pocket_05.jpg
-    url: /assets/images/computers/Nintendo_Game_Boybocket/Nintendo_Gameboy_Pocket_05.jpg
+    url: /assets/images/computers/Nintendo_Gameboy_Pocket/Nintendo_Gameboy_Pocket_05.jpg
   - image_path: /assets/images/computers/Nintendo_Gameboy_Pocket/Nintendo_Gameboy_Pocket_06.jpg
-    url: /assets/images/computers/Nintendo_Game_Boybocket/Nintendo_Gameboy_Pocket_06.jpg
+    url: /assets/images/computers/Nintendo_Gameboy_Pocket/Nintendo_Gameboy_Pocket_06.jpg
   - image_path: /assets/images/computers/Nintendo_Gameboy_Pocket/Nintendo_Gameboy_Pocket_07.jpg
-    url: /assets/images/computers/Nintendo_Game_Boybocket/Nintendo_Gameboy_Pocket_07.jpg
+    url: /assets/images/computers/Nintendo_Gameboy_Pocket/Nintendo_Gameboy_Pocket_07.jpg
   - image_path: /assets/images/computers/Nintendo_Gameboy_Pocket/Nintendo_Gameboy_Pocket_08.jpg
-    url: /assets/images/computers/Nintendo_Game_Boybocket/Nintendo_Gameboy_Pocket_08.jpg
+    url: /assets/images/computers/Nintendo_Gameboy_Pocket/Nintendo_Gameboy_Pocket_08.jpg
   - image_path: /assets/images/computers/Nintendo_Gameboy_Pocket/Nintendo_Gameboy_Pocket_09.jpg
-    url: /assets/images/computers/Nintendo_Game_Boybocket/Nintendo_Gameboy_Pocket_09.jpg
+    url: /assets/images/computers/Nintendo_Gameboy_Pocket/Nintendo_Gameboy_Pocket_09.jpg
   - image_path: /assets/images/computers/Nintendo_Gameboy_Pocket/Nintendo_Gameboy_Pocket_10.jpg
-    url: /assets/images/computers/Nintendo_Game_Boybocket/Nintendo_Gameboy_Pocket_10.jpg
+    url: /assets/images/computers/Nintendo_Gameboy_Pocket/Nintendo_Gameboy_Pocket_10.jpg
   - image_path: /assets/images/computers/Nintendo_Gameboy_Pocket/Nintendo_Gameboy_Pocket_12.jpg
-    url: /assets/images/computers/Nintendo_Game_Boybocket/Nintendo_Gameboy_Pocket_11.jpg
+    url: /assets/images/computers/Nintendo_Gameboy_Pocket/Nintendo_Gameboy_Pocket_11.jpg
   - image_path: /assets/images/computers/Nintendo_Gameboy_Pocket/Nintendo_Gameboy_Pocket_11.jpg
-    url: /assets/images/computers/Nintendo_Game_Boybocket/Nintendo_Gameboy_Pocket_12.jpg
+    url: /assets/images/computers/Nintendo_Gameboy_Pocket/Nintendo_Gameboy_Pocket_12.jpg
   
   
 ---
