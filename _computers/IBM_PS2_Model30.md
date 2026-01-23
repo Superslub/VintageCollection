@@ -58,7 +58,7 @@ gallery:
 |**Bemerkungen**| Gewicht ~8 kg, Tastatur mit Mikrotastern |
 |**Zustand**| funktioniert |
 
-IBM ist 1981 erst relativ spät in den aufkommenden Mikrocomputer-Markt ("Personal Computer"/ PC) eingestiegen, hat mit seinen Modellen "IBM PC" und "IBM PC/XT" aufgrund seiner Reputation im Groß- und Minicomputerbereich dennoch die wesentlichen späteren Standards setzen können. Der "IBM-kompatible PC" ist auch heute noch der verbreitetste PC-Standard.
+IBM ist 1981 erst relativ spät in den aufkommenden Mikrocomputer-Markt ("Personal Computer"/ PC) eingestiegen, hat mit seinen Modellen "IBM PC" und "IBM PC/XT" aber aufgrund seiner Reputation im Groß- und Minicomputerbereich dennoch die wesentlichen späteren Standards setzen können. Der "IBM-kompatible PC" ist auch heute noch der verbreitetste PC-Standard.
 
 Für IBM war es jedoch sehr ungünstig, dass diese ersten Standards **offen** waren (wohl dem verspäteten Einstieg IBMs geschuldet) und deren Nutzung nicht an IBM lizenziert werden musste.
 Mitte/Ende der 1980-er Jahre versuchte IBM mit proprietären Standards den Markt wieder unter seine Kontrolle zu bekommen. Dazu brachte IBM bei den Personal Computern die PS/2-Reihe mit einigen technischen Neuerungen heraus:  
