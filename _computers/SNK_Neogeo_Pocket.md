@@ -58,7 +58,7 @@ gallery:
 |**Anzeige**| 2,6 Zoll - 160×152 Pixel ohne Hintergrundbeleuchtung|
 |**Energieversorung**| 2 x AA-Zelle (für 40 Stunden Spielzeit)|
 |**Grafik**| 146 aus 4096 Farben, 512 8×8-Pixel-Sprites (3 Farben + Transparenz) |
-|**Sound**| 3-Kanäle Rechteck + 1 Kanal Rauschen 1ch + 2 Kanäle DAC (Samples) |
+|**Sound**| 3-Kanäle Rechteck + 1 Kanal Rauschen + 2 Kanäle DAC (Samples) |
 |**Bemerkungen**| Anschluss für Kommunikationskabel, Knopfzelle (CR2032)| 
 |**Zustand**| funktioniert |
 
