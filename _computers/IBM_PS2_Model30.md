@@ -58,10 +58,10 @@ gallery:
 |**Bemerkungen**| Gewicht ~8 kg, Tastatur mit Mikrotastern |
 |**Zustand**| funktioniert |
 
-IBM ist 1981 erst relativ spät in den aufkommenden Mikrocomputer-Markt ("Personal Computer"/ PC) eingestiegen, hat mit seinen Modellen "IBM PC" und "IBM PC/XT" aber aufgrund seiner Reputation im Groß- und Minicomputerbereich dennoch die wesentlichen späteren Standards setzen können. Der "IBM-kompatible PC" ist auch heute noch der verbreitetste PC-Standard.
+IBM ist 1981 erst relativ spät in den aufkommenden Mikrocomputer-Markt ("Personal Computer"/ PC) eingestiegen, konnte jedoch aufgrund seiner Reputation im Groß- und Minicomputerbereich dennoch mit den frühen Modellen "IBM PC" und "IBM PC/XT" die später wesentlichen Standards setzen - Der "IBM-kompatible PC" ist auch heute noch der verbreitetste PC-Standard.
 
 Für IBM war es jedoch sehr ungünstig, dass diese ersten Standards **offen** waren (wohl dem verspäteten Einstieg IBMs geschuldet), deren Nutzung also nicht an IBM lizenziert werden musste.
-Mitte/Ende der 1980-er Jahre versuchte IBM mit proprietären Standards den Markt wieder unter seine Kontrolle zu bekommen. Dazu brachte IBM bei den Personal Computern die PS/2-Reihe mit einigen technischen Neuerungen heraus:  
+Ende der 1980-er Jahre versuchte IBM mit proprietären Standards den Markt wieder unter seine Kontrolle zu bekommen. Dazu brachte IBM bei den Personal Computern die PS/2-Reihe mit einigen sehr leistungsfähigen technischen Neuerungen heraus:  
 - Microchannel-Bussystem  
 - neue BIOS-Technologie
 - VGA-Grafikstandard  
@@ -70,10 +70,10 @@ Mitte/Ende der 1980-er Jahre versuchte IBM mit proprietären Standards den Markt
 - PS/2-Schnittstellen für Maus und Tastatur
 - "High Density" 3,5-Zoll-Disketten mit 1,44 MB Speicherkapazität
 
-Die großen Hersteller IBM-kompatibler PCs dieser Zeit (allen voran Compaq) sahen allerdings nicht ein, weshalb sie künftig an IBM Lizenzzahlungen leisten sollten und führten für die meisten Neuerungen von IBM gemeinsam eigene, offene Standards ein (z.B. <a href="https://de.wikipedia.org/wiki/Extended_ISA" target="_blank" rel="noopener noreferrer">EISA</a>). Somit blieb die PS/2-Reihe der gescheiterte Versuch IBMs, den boomenden PC-Markt mit proprietären Technik-Standards für sich einzufangen.
+Die großen Hersteller IBM-kompatibler PCs dieser Zeit (allen voran Compaq) sahen allerdings nicht ein, weshalb sie "ihre PCs" künftig an IBM Lizenzzahlungen leisten sollten und führten gemeinsam für die meisten IBM-Neuerungen eigene, offene Standards ein (z.B. <a href="https://de.wikipedia.org/wiki/Extended_ISA" target="_blank" rel="noopener noreferrer">EISA</a>). Somit blieb die PS/2-Reihe der gescheiterte Versuch IBMs, den boomenden PC-Markt mit proprietären Technik-Standards für sich einzufangen.
 
-Einige technischen Neuerungen der PS/2-Reihe fanden trotzdem später ihren Weg in den freien PC-Markt: VGA, PS/2-Maus- und -Tastaturanschluss, SIMM-Speichermodule, serielle Ports mit 16550-UART und das HD-Floppyformat hatten später die allermeisten PCs.
+Einige technischen Neuerungen der PS/2-Reihe fanden trotzdem ihren Weg in den freien PC-Markt: VGA, PS/2-Maus- und -Tastaturanschluss, SIMM-Speichermodule, serielle Ports mit 16550-UART und das HD-Floppyformat hatten später die allermeisten PCs.
 
-Das "Model 30" war am unteren Ende der IBM-PS/2-Modellreihe angesiedelt und stellt einen seltsamen Kompromiss IBMs dar: Obwohl ein PS/2-System, kam es bspw. mit offenem 16-Bit-ISA-Bus (statt Microchannel) - man kann also "normale" ISA-Karten im System nutzen. Es ist trotzdem einer der ersten PC-Modelle mit PS/2-Anschlüssen, VGA-Grafik, 72-poligen SIMM-Modulen und 1,44 MB-HD-Floppydrive.
+Das hier gezeigte "Model 30" war am unteren Ende der IBM-PS/2-Modellreihe angesiedelt und stellt einen seltsamen Kompromiss IBMs dar: Obwohl ein PS/2-System, kam es bspw. mit offenem 16-Bit-ISA-Bus (statt Microchannel) - man kann also "normale" ISA-Karten im System nutzen. Es ist trotzdem einer der ersten PC-Modelle mit PS/2-Anschlüssen, VGA-Grafik, 72-poligen SIMM-Modulen und 1,44 MB-HD-Floppydrive.
 
 {% include gallery class="mm-gallery--letterbox" %}
