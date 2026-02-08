@@ -55,7 +55,7 @@ gallery:
 |**CPU**| Motorola 68000 @ 7,09 MHz|
 |**RAM**| 512 kB|
 |**Betriebssystem***| Amiga OS 1.3|
-|**Schnittstellen**| Audio, Display (RGB), Floppy, Parallel, Serial, 2xJoystick/Maus|
+|**Schnittstellen**| Audio, Display (RGB), Floppy, Parallel, Serial, 2 x Joystick/Maus|
 |**Bemerkungen**| später 500er, schon mit Board vom 500+| 
 |**vorh. Zubehör**| externe Floppy, int. Speichererweiterung (512 kB) mit Echtzeituhr, Tank-Mouse, Video-Backup-System, SCART-Kabel | 
 |**Reparaturen**| interne Floppy ersetzt, SCART-Kabel repariert | 
