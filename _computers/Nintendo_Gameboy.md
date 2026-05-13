@@ -2,7 +2,7 @@
 title: "Nintendo Game Boy"
 excerpt: "Der Handheld-Klassiker"
 manufacturer: "Nintendo"
-year: 1996
+year: 1989
 cpu_family: Z80
 type: Handheld
 order: 80
