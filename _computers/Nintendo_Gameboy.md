@@ -1,5 +1,5 @@
 ---
-title: "Nintendo Game Boy"
+title: "Nintendo Game Boy (1989)"
 excerpt: "Der Handheld-Klassiker"
 manufacturer: "Nintendo"
 year: 1989
