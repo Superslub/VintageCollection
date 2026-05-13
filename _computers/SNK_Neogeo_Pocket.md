@@ -1,5 +1,5 @@
 ---
-title: "SNK NeoGeo Pocket Color"
+title: "SNK NeoGeo Pocket Color (1999)"
 excerpt: "NeoGeo für die Tasche"
 manufacturer: "SNK"
 year: 1999
