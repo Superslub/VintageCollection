@@ -1,6 +1,6 @@
 ---
-title: "Nintendo Game Boy Pocket (1996)"
-excerpt: "Facelift des Klassikers"
+title: "Nintendo Game Boy Pocket"
+excerpt: "Facelift des Klassikers (1996)"
 manufacturer: "Nintendo"
 year: 1996
 cpu_family: Z80
