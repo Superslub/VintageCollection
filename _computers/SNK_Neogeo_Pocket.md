@@ -1,6 +1,6 @@
 ---
-title: "SNK NeoGeo Pocket Color (1999)"
-excerpt: "NeoGeo für die Tasche"
+title: "SNK NeoGeo Pocket Color"
+excerpt: "NeoGeo für die Tasche (1999)"
 manufacturer: "SNK"
 year: 1999
 cpu_family: TLCS-900
