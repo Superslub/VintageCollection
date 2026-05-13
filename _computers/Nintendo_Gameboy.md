@@ -1,6 +1,6 @@
 ---
-title: "Nintendo Game Boy (1989)"
-excerpt: "Der Handheld-Klassiker"
+title: "Nintendo Game Boy"
+excerpt: "Der Handheld-Klassiker (1989)"
 manufacturer: "Nintendo"
 year: 1989
 cpu_family: Z80
