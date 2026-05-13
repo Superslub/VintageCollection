@@ -1,8 +1,8 @@
 ---
-title: "Nintendo Game Boy Pocket"
+title: "Nintendo Game Boy Pocket (1996)"
 excerpt: "Facelift des Klassikers"
 manufacturer: "Nintendo"
-year: 1989
+year: 1996
 cpu_family: Z80
 type: Handheld
 order: 90
