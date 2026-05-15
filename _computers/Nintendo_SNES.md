@@ -39,15 +39,14 @@ gallery:
 |**CPU**| 16-Bit Ricoh 5A22 mit 65C816-Kern @ max. ca. 3,55 MHz (PAL) |
 |**RAM**| 128 kB Work-RAM, 64 kB Video-RAM, 64 kB Audio-RAM |
 |**Grafik**| 2× PPU (Picture Processing Unit), 32.768 Farben, bis zu 256 Farben gleichzeitig, 128 Sprites, Mode 7 |
-|**Anzeige**| Ausgabe an ein Fernsehgerät, PAL-Signal, typ. 256×224/239 Pixel; höhere und interlaced Modi möglich |
+|**Anzeige**| TV-Ausgang, typ. 256×224/239 Pixel; höhere und interlaced Modi möglich |
 |**Sound**| Sony SPC700/S-SMP mit DSP (Digital Signal Processor), 8 Kanäle, samplebasierte Klangerzeugung |
 |**Massenspeicher**| Steckmodule; einzelne Module mit Zusatzchips, z. B. Super FX |
 |**Schnittstellen**| Modulschacht, 2× Controlleranschluss, Multi-AV-Out, Netzteilanschluss, EXT-Port |
 |**Energieversorung**| externes 9-V-Netzteil, 1,3 A |
-|**Controller**| SNES-Controller mit Steuerkreuz, vier Aktionstasten, Start/Select und zwei Schultertasten |
 |**vorh. Zubehör**| Controller, div. Spielmodule, Super Game Boy |
 |**Bemerkungen**| deutsches PAL-Modell SNSP-001A (FRG), Made in Japan |
-|**Zustand**| noch zu prüfen |
+
 
 Das Super Nintendo Entertainment System (aka "Super Nintendo" oder "SNES"), ist Nintendos Nachfolger des erfolgreichen Nintendo Entertainment System (NES/1983). In Japan erschien das SNES 1990 als Super Famicom, in Nordamerika 1991 und in Europa 1992. Die hier gezeigte PAL-Version entspricht äußerlich weitgehend der japanischen Gehäuseform; die nordamerikanische Variante erhielt dagegen ein deutlich anderes Design.
 
