@@ -1,6 +1,6 @@
 ---
 title: "Atari 2600 Junior"
-excerpt: "Letzte Neuauflage des VCS-Klassikers (1986)"
+excerpt: "Letzte Neuauflage des VCS-Klassikers (1977/1986)"
 manufacturer: "Atari Corporation"
 year: 1986
 cpu_family: 6502
