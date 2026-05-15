@@ -1,6 +1,6 @@
 ---
 title: "Sony PlayStation 2 Slim"
-excerpt: "DVD-Spielkonsole mit Emotion Engine (2004)"
+excerpt: "DVD-Spielkonsole mit Emotion Engine (2000/2004)"
 manufacturer: "Sony Computer Entertainment"
 year: 2004
 cpu_family: MIPS
