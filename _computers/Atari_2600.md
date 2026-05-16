@@ -45,7 +45,7 @@ gallery:
 
 |**Modell-/Baujahr**| Atari VCS: 1977 / Atari 2600 Junior: 1986 |
 |**CPU**| <a href="https://de.wikipedia.org/wiki/MOS_Technology_6502" target="_blank" rel="noopener noreferrer">MOS Technology 6507</a> @ ca. 1,19 MHz |
-|**RAM**| 128 Byte |
+|**RAM**| 128 Byte (1/8 kB)|
 |**Grafik/Sound**| TIA (Television Interface Adapter) für Bild, Ton und Eingaben |
 |**Anzeige**| Ausgabe an ein Fernsehgerät über Antennenanschluss |
 |**Massenspeicher**| Steckmodule mit fest gespeicherten Programmen |
