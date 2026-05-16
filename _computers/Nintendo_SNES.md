@@ -42,7 +42,7 @@ gallery:
 |**Anzeige**| TV-Ausgang, typ. 256×224/239 Pixel; höhere und interlaced Modi möglich |
 |**Sound**| Sony SPC700/S-SMP mit DSP (Digital Signal Processor), 8 Kanäle, samplebasierte Klangerzeugung |
 |**Massenspeicher**| Steckmodule; einzelne Module mit Zusatzchips, z. B. Super FX |
-|**Schnittstellen**| Modulschacht, 2× Controlleranschluss, Multi-AV-Out, Netzteilanschluss, EXT-Port |
+|**Schnittstellen**| Modulschacht, 2× Controlleranschluss, Multi-AV-Out (FBAS, S-Video, RGB), Netzteilanschluss, EXT-Port |
 |**Energieversorung**| externes 9-V-Netzteil, 1,3 A |
 |**vorh. Zubehör**| Controller, div. Spielmodule, Super Game Boy |
 |**Bemerkungen**| deutsches PAL-Modell SNSP-001A (FRG), Made in Japan |
