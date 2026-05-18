@@ -53,7 +53,7 @@ gallery:
 |**Energieversorung**| externes 9-V-Netzteil |
 |**Controller**| Joysticks, Paddle-Controller und weitere Atari-kompatible Eingabegeräte |
 |**Bemerkungen**| späte, kostenreduzierte Gehäusevariante; softwarekompatibel zum ursprünglichen Atari VCS |
-|**Zustand**| noch zu prüfen |
+|**Zustand**| sehr guterZustand, z.T. noch mit Schutzfolie |
 
 Der Atari 2600 Junior steht am Ende einer langen Entwicklungslinie, die 1977 mit dem Atari Video Computer System (VCS) begann. Das erste digitale Spiel mit Anschluß für den heimischen Fernseher war Ataris <a href="https://de.wikipedia.org/wiki/PongPong" target="_blank" rel="noopener noreferrer">Pong</a>, welches 1972 erschien. 1977 hatte der Pong-Markt schon einiges an Schwung verloren und Atari beim Nachfolger auf ein System, dessen Spiele nicht fest eingebaut waren, sondern als wechselbare Steckmodule verkauft wurden. Damit wurde aus dem einzelnen Telespiel ein dauerhaft erweiterbares Spielsystem für das Wohnzimmer.
 
